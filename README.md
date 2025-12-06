@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .SOFTWARE one-word domains still available to buy.
 
-This dataset contains 4,014 .SOFTWARE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,008 .SOFTWARE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.SOFTWARE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=software-oneword-domains&utm_content=description.top) (4,017) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.SOFTWARE one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.software        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.software        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.software  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.software      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.software  | available | 58       | 7%     | 9      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.SOFTWARE one word dom
 | abeyant.software    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.software  | available | 54       | 3%     | 9      |           |         |         |
 | abient.software     | available | 54       | 1%     | 6      |           |         |         |
-| ability.software    | available | 92       | 18%    | 7      |           |         |         |
+| ability.software    | premium   | 92       | 18%    | 7      |           |         |         |
 | abject.software     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.software     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.software  | available | 78       | 1%     | 9      |           |         |         |
