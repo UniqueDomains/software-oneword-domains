@@ -1,10 +1,10 @@
-# Available .SOFTWARE One-Word Domains (8,264)
+# Available .SOFTWARE One-Word Domains (8,266)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C267%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C264%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C266%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .software one-word domains from Un
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,267 rows · **Live catalog:** 8,264 domains
+**Public extract:** 8,267 rows · **Live catalog:** 8,266 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/software`  
@@ -73,17 +73,17 @@ print(df.head())
 | choice.software    | available | $19.99    | $50.99        | 74             | 31     | 6      | name.com        |
 | limitless.software | resell    | —         | —             | 76             | 55     | 9      | Sav.com, LLC    |
 | one.software       | premium   | $1,250    | $1,250        | 132            | 50     | 3      | name.com        |
-| double.software    | available | $19.99    | $50.99        | 92             | 30     | 6      | name.com        |
+| wealth.software    | available | $19.99    | —             | 84             | 30     | 6      | name.com        |
 | better.software    | resell    | —         | —             | 110            | 54     | 6      | Porkbun LLC     |
 | real.software      | premium   | $780      | $780          | 78             | 49     | 4      | namecheap       |
-| wealth.software    | available | $19.99    | —             | 84             | 30     | 6      | name.com        |
-| top.software       | resell    | —         | —             | 82             | 48     | 3      | Porkbun LLC     |
-| security.software  | premium   | $3,250    | $3,250        | 70             | 49     | 8      | namecheap       |
 | senior.software    | available | $19.99    | $50.99        | 70             | 30     | 6      | name.com        |
-| soul.software      | resell    | —         | —             | 104            | 47     | 4      | NameCheap, Inc. |
+| epic.software      | resell    | —         | —             | 102            | 48     | 4      | Porkbun LLC     |
+| security.software  | premium   | $3,250    | $3,250        | 70             | 49     | 8      | namecheap       |
+| double.software    | available | $19.99    | $50.99        | 92             | 29     | 6      | name.com        |
+| top.software       | resell    | —         | —             | 82             | 48     | 3      | Porkbun LLC     |
 | gold.software      | premium   | $520      | $520          | 72             | 48     | 4      | namecheap       |
-| east.software      | available | $19.99    | $50.99        | 72             | 29     | 4      | name.com        |
-| epic.software      | resell    | —         | —             | 102            | 47     | 4      | Porkbun LLC     |
+| second.software    | available | $19.99    | $50.99        | 120            | 28     | 6      | name.com        |
+| soul.software      | resell    | —         | —             | 104            | 47     | 4      | NameCheap, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,267-row public sample | 8,264 live domains                               |
+| 8,267-row public sample | 8,266 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
