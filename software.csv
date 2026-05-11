@@ -74,6 +74,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 06a3e00d-5e6c-402d-a75b-8a988ae7ba74,daughters.software,available,19.99,,60,8,9,name.com,,
 06b43b2f-bd3f-4c50-bbf1-528edf32402c,dancers.software,available,19.99,,64,9,7,name.com,,
 06d3d450-63c5-4b17-bb4a-7c86f4a78d01,topfive.software,available,19.99,,52,9,8,name.com,,
+06d6bac4-88cb-4d0d-8754-5b66c5349263,drivethru.software,available,19.99,,76,10,10,name.com,,
 07160676-a455-46e9-aced-129c4e1eeb1b,moulds.software,available,19.99,,52,5,6,name.com,,
 072b10a9-1373-431c-9b1f-a6a290a76817,concerts.software,available,19.99,,68,12,8,name.com,,
 074f8d9c-9a1b-4593-90b5-206c91770937,indetail.software,available,19.99,,49,4,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b5b9870-ddeb-44c5-8f01-faa8aa8bb89a,closets.software,available,19.99,,56,10,7,name.com,,
 5b6101d3-44c7-4ae7-a4de-cb0331b5f620,mountainridge.software,available,19.99,,52,3,14,name.com,,
 5b80861a-0323-4ded-8ee6-c97e0cd3c7e1,stepaside.software,available,19.99,,74,2,10,name.com,,
-5b93036e-2b69-4666-a81d-112e0834cf8d,victories.software,available,19.99,,58,5,9,name.com,,
