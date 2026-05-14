@@ -75,7 +75,7 @@ print(df.head())
 | compute.software      | available | $19.99    | —             | 74             | 30     | 7      | name.com         |
 | homes.software        | premium   | $123.75   | —             | 86             | 34     | 5      | name.com         |
 | gems.software         | available | $19.99    | —             | 70             | 28     | 4      | name.com         |
-| reliability.software  | premium   | $1,250    | —             | 84             | 33     | 11     | name.com         |
+| reliability.software  | premium   | $1,250    | —             | 84             | 34     | 11     | name.com         |
 | KFC.software          | available | $56.98    | —             | 74             | 27     | 3      | namecheap        |
 | SanDiego.software     | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo         |
 | pops.software         | available | $19.99    | —             | 74             | 24     | 4      | name.com         |
