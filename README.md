@@ -1,10 +1,10 @@
-# Available .SOFTWARE One-Word Domains (11,157)
+# Available .SOFTWARE One-Word Domains (11,158)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C157%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C158%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .software one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,157 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,158 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,157 domains · **Median ask:** $74.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,158 domains · **Median ask:** $92.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/software`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/software`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SOFTWARE one-word dom
 
 ### Files
 
-- `software.csv` — public CSV extract (1,000 rows)
-- `software.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `software.csv`, public CSV extract (1,000 rows)
+- `software.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| matcha.software       | available | $19.99    | —             | 86             | 39     | 6      | name.com         |
-| sure.software         | resell    | —         | —             | 88             | 26     | 4      | NameCheap, Inc.  |
-| coins.software        | premium   | $500      | —             | 56             | 41     | 5      | name.com         |
-| William.software      | available | $56.98    | —             | 74             | 31     | 7      | namecheap        |
-| estateagency.software | resell    | —         | —             | 42             | 4      | 13     | GoDaddy.com, LLC |
-| WiFi.software         | premium   | $3,500    | $3,500        | 83             | 37     | 5      | namecheap        |
-| letsgo.software       | available | $19.99    | —             | 57             | 31     | 7      | name.com         |
-| events.software       | premium   | $500      | —             | 68             | 37     | 6      | name.com         |
-| compute.software      | available | $19.99    | —             | 74             | 30     | 7      | name.com         |
-| homes.software        | premium   | $123.75   | —             | 86             | 34     | 5      | name.com         |
-| gems.software         | available | $19.99    | —             | 70             | 28     | 4      | name.com         |
-| reliability.software  | premium   | $1,250    | —             | 84             | 34     | 11     | name.com         |
-| KFC.software          | available | $56.98    | —             | 74             | 27     | 3      | namecheap        |
-| SanDiego.software     | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo         |
-| pops.software         | available | $19.99    | —             | 74             | 24     | 4      | name.com         |
-| blocks.software       | premium   | $123.75   | —             | 53             | 29     | 6      | name.com         |
-| toys.software         | available | $19.99    | —             | 60             | 24     | 4      | name.com         |
-| forms.software        | premium   | $250      | —             | 54             | 28     | 5      | name.com         |
-| boats.software        | available | $19.99    | —             | 52             | 24     | 5      | name.com         |
-| loans.software        | premium   | $500      | —             | 58             | 24     | 5      | name.com         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| out.software      | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
+| come.software     | available | $19.99    | —             | high           | low    | 4      | name.com                                                           |
+| clean.software    | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                                           |
+| cut.software      | premium   | $250      | $250          | high           | low    | 3      | name.com                                                           |
+| count.software    | available | $19.99    | —             | high           | low    | 5      | name.com                                                           |
+| ground.software   | available | $19.99    | —             | high           | low    | 6      | name.com                                                           |
+| complete.software | premium   | $250      | $250          | high           | low    | 8      | name.com                                                           |
+| there.software    | available | $19.99    | —             | high           | low    | 5      | name.com                                                           |
+| bce.software      | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
+| tea.software      | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                                                    |
+| are.software      | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
+| bid.software      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| flow.software     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                                       |
+| BBC.software      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                           |
+| boo.software      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| radar.software    | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                                        |
+| cap.software      | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
+| cup.software      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| astral.software   | resell    | —         | —             | high           | low    | 6      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| dig.software      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,157 live domains                        |
+| 1,000-row public sample | 11,158 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .software extension, so the main question is not category fit but name quality. The strongest picks tend to be short, clear, easy to say, and commercially broad enough to support multiple product directions. Names like career.software or custom.software are direct and descriptive, while urge.software or inhale.software lean more brandable. Price discipline matters: the median ask is 74.67, so higher asks should usually come with stronger memorability, cleaner meaning, or better buyer breadth. Review carefully for trademark exposure, especially with terms that match established brands such as Netflix.software or wise.software.
+This list covers one-word domain names in the .software extension — short, single-word names built for software brands, tools, and platforms. The set spans 11,158 available names such as out.software, feel.software, and content.software, with a median asking price of $92.23. Because .software reads clearly as a technology signal, these names suit product launches, SaaS tools, and developer-focused brands looking for a clean, ownable one-word identity.
 
-- Favor short, clear .software names with broad commercial use
-- Use 74.67 as a baseline when judging ask prices
-- Descriptive names suit clarity; abstract names suit branding
-- Check trademark risk before valuing any exact-match brand term
+- 11,158 one-word .software domains in this selection
+- Median asking price: $92.23 across the set
+- Single-word names like out.software and feel.software
+- Ownable now — no bidding or waiting required
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOFTWARE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOFTWARE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
