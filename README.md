@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .software one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,154 domains · **Median ask:** $45.56 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/software`
 **Best for:** founders, investors, studios
 
@@ -64,13 +64,6 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| out.software    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
-| come.software   | available | $19.99    | —             | high           | low    | 4      | name.com                                                           |
-| clean.software  | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                                           |
-| cut.software    | premium   | $250      | $250          | high           | low    | 3      | name.com                                                           |
-| count.software  | available | $19.99    | —             | high           | low    | 5      | name.com                                                           |
-| ground.software | available | $19.99    | —             | high           | low    | 6      | name.com                                                           |
-| there.software  | available | $19.99    | —             | high           | low    | 5      | name.com                                                           |
 | bce.software    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
 | flow.software   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                                       |
 | are.software    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
@@ -82,8 +75,15 @@ print(df.head())
 | cap.software    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
 | cup.software    | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
 | astral.software | resell    | —         | —             | high           | low    | 6      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| cut.software    | premium   | $250      | $250          | high           | low    | 3      | name.com                                                           |
 | dig.software    | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
 | hybrid.software | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                                                    |
+| fin.software    | premium   | $242      | $242          | low            | low    | 3      | namesilo                                                           |
+| don.software    | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| stable.software | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                                   |
+| lol.software    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
+| feb.software    | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| out.software    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOFTWARE One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOFTWARE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
