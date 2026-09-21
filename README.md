@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .software one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,600 domains · **Median ask:** $43.23 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/software`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,10 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| come.software   | available | $19.99    | —             | high           | low    | 4      | name.com                                                           |
+| cut.software    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
+| count.software  | available | $19.99    | —             | high           | low    | 5      | name.com                                                           |
+| ground.software | available | $19.99    | —             | high           | low    | 6      | name.com                                                           |
 | bce.software    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
 | flow.software   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                                       |
 | are.software    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
@@ -72,7 +76,6 @@ print(df.head())
 | cap.software    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
 | boo.software    | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
 | stone.software  | resell    | —         | —             | low            | low    | 5      | Dynadot Inc                                                        |
-| cut.software    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
 | dig.software    | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
 | astral.software | resell    | —         | —             | high           | low    | 6      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | fin.software    | premium   | $242      | $242          | low            | low    | 3      | namesilo                                                           |
@@ -81,9 +84,6 @@ print(df.head())
 | lol.software    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
 | feb.software    | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
 | out.software    | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                                           |
-| hic.software    | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
-| red.software    | premium   | $3,125    | —             | high           | medium | 3      | name.com                                                           |
-| him.software    | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOFTWARE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOFTWARE One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
