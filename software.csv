@@ -12,8 +12,8 @@ fd4931c2-bf07-45b3-ac52-c0ec138333e5,browbeat.software,available,11.98,56.98,med
 bbe56471-58f8-4e6b-8bea-68f922f01b18,alluring.software,available,20.99,41.99,high,low,8,namesilo,,,22/09/2026 01:34
 434e3739-e1bf-49a6-bc37-d8632a13b913,wizardly.software,available,11.98,56.98,medium,low,8,namecheap,,,24/08/2026 13:02
 573584b5-808e-4f43-920a-e418f278e193,varied.software,available,19.99,,high,low,6,name.com,,,
-44a11e16-f6c4-4949-a613-ac4512c7fa07,hypocrite.software,available,11.98,56.98,high,low,9,namecheap,,,08/09/2026 19:08
-84f4d7f8-b119-486e-8b3f-5c4706ac238b,depress.software,available,19.99,,high,low,7,name.com,,,
+44a11e16-f6c4-4949-a613-ac4512c7fa07,hypocrite.software,available,11.98,56.98,medium,low,9,namecheap,,,08/09/2026 19:08
+84f4d7f8-b119-486e-8b3f-5c4706ac238b,depress.software,available,19.99,,medium,low,7,name.com,,,
 94c105fb-e74f-4e25-8aa5-4b30d22f35e0,compliment.software,available,20.99,41.99,high,low,10,namesilo,,,24/09/2026 16:50
 336cb073-ef98-4360-adad-f1218f595a71,researchers.software,available,20.99,41.99,medium,low,11,namesilo,,,18/09/2026 17:37
 7cdebf7a-ac7b-42c2-91c1-f18465693ce1,frail.software,available,11.98,56.98,high,low,5,namecheap,,,18/08/2026 13:59
@@ -30,7 +30,7 @@ dc9be3ec-6479-4663-86a8-c7afa0c577b7,depressant.software,available,11.98,56.98,m
 2c7715a1-fdf6-4d33-87f1-fcf281f0f2e0,aplysia.software,available,11.98,56.98,medium,low,7,namecheap,,,19/09/2026 17:53
 5ecb0932-0028-46e1-a44b-99cfdb3e0691,reasonably.software,available,11.98,56.98,medium,low,10,namecheap,,,25/09/2026 11:58
 345c1e70-fdab-4663-b95a-1a1509f037ba,bionics.software,available,20.99,41.99,high,low,7,namesilo,,,23/09/2026 18:40
-ec683b7c-e80b-40de-98c9-478fb1ab89d3,unfettered.software,available,11.98,56.98,high,low,10,namecheap,,,12/09/2026 04:56
+ec683b7c-e80b-40de-98c9-478fb1ab89d3,unfettered.software,available,11.98,56.98,medium,low,10,namecheap,,,12/09/2026 04:56
 bf3a2a93-db95-4f3d-8730-12629d0c31c9,bother.software,available,11.98,56.98,medium,low,6,namecheap,,,24/09/2026 07:29
 67199c96-0123-4bd4-9a1d-accb3cc07504,harijan.software,available,11.98,56.98,medium,low,7,namecheap,,,12/09/2026 21:38
 62e8bf67-3c88-4a04-8e5d-e89fcb87ad73,blond.software,available,20.99,41.99,high,low,5,namesilo,,,22/09/2026 22:15
@@ -43,9 +43,9 @@ a688575a-a58f-45b6-a7ed-9e9f679b32e8,coherent.software,available,11.98,56.98,hig
 c6481583-35bc-4705-a310-d00853af1527,ratty.software,available,11.98,56.98,medium,low,5,namecheap,,,25/08/2026 06:53
 b01f4707-0cfd-42a4-b20c-3eb3cf4819fc,hangdog.software,available,11.98,56.98,medium,low,7,namecheap,,,20/08/2026 23:41
 9bf01060-0423-4b8e-bda7-40fc079ee98e,worded.software,available,20.99,41.99,medium,low,6,namesilo,,,20/09/2026 15:04
-dbff6328-6c72-4fcd-80b6-94c444f62ea7,akkadian.software,available,20.99,41.99,high,low,8,namesilo,,,18/09/2026 00:10
+dbff6328-6c72-4fcd-80b6-94c444f62ea7,akkadian.software,available,20.99,41.99,medium,low,8,namesilo,,,18/09/2026 00:10
 4add88f4-56fb-4671-baaa-040d8776afa5,glabrous.software,available,11.98,56.98,medium,low,8,namecheap,,,19/08/2026 00:03
-0d961892-9587-47ee-96ea-9d816824ae62,riskless.software,available,11.98,56.98,high,low,8,namecheap,,,09/09/2026 17:59
+0d961892-9587-47ee-96ea-9d816824ae62,riskless.software,available,11.98,56.98,medium,low,8,namecheap,,,09/09/2026 17:59
 adcd0307-abed-4896-b687-24dbf79bfa89,mcdonald.software,available,19.99,,high,low,8,name.com,,,
 bd1d8f1a-3e0d-41d0-8500-ef02a6278899,eastern.software,available,20.99,41.99,high,low,7,namesilo,,,24/09/2026 13:10
 aed453bb-a3eb-484c-a47e-d0a018a49488,shoplift.software,available,19.99,,medium,low,8,name.com,,,
@@ -70,13 +70,15 @@ da950667-eff9-4e90-abb1-6e29f5c18212,photography.software,premium,3125,,high,low
 aac580c4-20b0-426d-905e-67104a709269,acarpelous.software,available,11.98,56.98,medium,low,10,namecheap,,,
 c538795f-81d4-41d1-8362-95946b22d710,weekly.software,available,11.98,56.98,high,low,6,namecheap,,,21/08/2026 05:36
 91865b8d-460f-4c32-a4ac-1ca72318fa4b,notifies.software,available,11.98,56.98,medium,low,8,namecheap,,,18/09/2026 08:35
+f33b80f8-95c6-452e-8a4b-c57a0de76f6d,christine.software,available,32.2,32.2,high,low,9,cloudflare,,,27/09/2026 19:02
+c0b57366-1fa3-46a0-9f88-b5b278ef9f99,achieve.software,available,10.55,33.32,high,low,7,spaceship,,,28/09/2026 03:16
 d819f4ed-50f6-4723-9273-3a7373f53de2,devotedly.software,available,11.98,56.98,medium,low,9,namecheap,,,14/09/2026 12:28
 4b825801-89ac-423b-91ff-5794abccf8ef,swinging.software,available,11.98,56.98,high,low,8,namecheap,,,23/08/2026 08:43
 420cba6e-8dcc-4424-8bff-e0bd377b5e49,applet.software,available,11.98,56.98,high,low,6,namecheap,,,19/09/2026 21:38
 cac86a2d-9646-4273-9119-eba1758e258f,tradition.software,available,19.99,,high,low,9,name.com,,,
 9c031934-88ef-4b27-80ea-f3238a065faf,aga.software,available,20.99,41.99,high,low,3,namesilo,,,17/09/2026 15:58
 a7e89ce6-0a5f-44db-bd81-395f9340dc5a,assagai.software,available,20.99,41.99,medium,low,7,namesilo,,,20/09/2026 15:41
-aecd3659-ac8f-4186-b585-9f96e0be4757,cautionary.software,available,11.98,56.98,high,low,10,namecheap,,,
+aecd3659-ac8f-4186-b585-9f96e0be4757,cautionary.software,available,11.98,56.98,medium,low,10,namecheap,,,
 ada3cbcf-61f8-403f-b347-33e6a4c79a65,pertly.software,available,11.98,56.98,medium,low,6,namecheap,,,15/09/2026 02:17
 416718d7-b0d2-48f8-88b1-f1cf01ac4074,paused.software,available,20.99,41.99,medium,low,6,namesilo,,,18/09/2026 02:16
 d8ec7c5e-5ae3-4fa8-992c-09c60b9e0f14,graceless.software,available,11.98,56.98,medium,low,9,namecheap,,,18/08/2026 20:43
@@ -86,7 +88,7 @@ d14b1887-e1d8-4c30-b644-ade05b2dc6b5,heavily.software,available,11.98,56.98,medi
 9c6be90a-0b32-43a7-beba-1984b65183e6,orad.software,available,11.98,56.98,medium,low,4,namecheap,,,15/09/2026 18:09
 4ed29309-4a0c-44d3-82a7-ca771b768708,adducent.software,available,11.98,56.98,medium,low,8,namecheap,,,
 aaef01ca-fc27-4288-a99a-d44ae5369b51,punter.software,available,19.99,,medium,low,6,name.com,,,
-e6f1d8f0-ee11-41a7-8b0a-fd4a031fc3f7,hangover.software,available,19.99,,high,low,9,name.com,,,
+e6f1d8f0-ee11-41a7-8b0a-fd4a031fc3f7,hangover.software,available,19.99,,medium,low,9,name.com,,,
 8bcfacbc-7f02-4a20-a8d7-724ebdd2a667,tirana.software,available,20.99,41.99,high,low,6,namesilo,,,18/09/2026 02:27
 9619c082-7e4d-4cba-8f8e-c89c6dd48b5f,trenton.software,available,20.99,41.99,high,low,7,namesilo,,,24/09/2026 12:19
 8eecb610-05e0-42f2-916f-09ac56990e54,polymeric.software,available,11.98,56.98,medium,low,9,namecheap,,,08/09/2026 23:25
@@ -99,9 +101,9 @@ fa2a14cf-e51b-4710-9989-51511d287d27,anaglyph.software,available,11.98,56.98,med
 4cf73e22-7103-4233-8f11-67d4da237f6b,militant.software,available,11.98,56.98,high,low,8,namecheap,,,
 638614d7-8636-47b6-b25d-59b16f25fe28,bida.software,available,20.99,41.99,medium,low,4,namesilo,,,23/09/2026 13:39
 b3870d98-addf-4f08-abba-6ef4f541def0,aspirant.software,available,11.98,56.98,medium,low,8,namecheap,,,07/08/2026 05:02
-99a03ff0-b50c-467e-a448-d6679bf24cfe,dearly.software,available,29.99,50.99,high,low,6,name.com,,,13/08/2026 20:00
+99a03ff0-b50c-467e-a448-d6679bf24cfe,dearly.software,available,29.99,50.99,medium,low,6,name.com,,,13/08/2026 20:00
 959c14bb-36c0-46cc-adca-fd509a6e4d90,joshua.software,available,11.98,56.98,high,low,6,namecheap,,,24/09/2026 06:58
-d82c57da-6aeb-4864-bfb2-4bfc72e20ef5,nineteenth.software,available,11.98,56.98,high,low,10,namecheap,,,
+d82c57da-6aeb-4864-bfb2-4bfc72e20ef5,nineteenth.software,available,11.98,56.98,medium,low,10,namecheap,,,
 1f2a7d67-a1d6-4cee-804a-0405527268c0,cognisant.software,available,11.98,56.98,medium,low,9,namecheap,,,08/08/2026 00:18
 4a985133-de7d-43ec-aa4d-f61107412ee4,yearningly.software,available,11.98,56.98,medium,low,10,namecheap,,,15/09/2026 12:56
 3fe0f48b-fb41-40ee-bd2b-95e1a0ec5646,theirs.software,available,19.99,,medium,low,6,name.com,,,
@@ -111,6 +113,7 @@ ee40ba2c-4c58-4b88-8c47-9fa419149612,caught.software,available,19.99,,high,low,6
 4e342843-930c-402e-abaf-44228a16dbbd,dubnium.software,available,20.99,41.99,medium,low,7,namesilo,,,20/09/2026 22:04
 f04e3fd6-73d1-432c-bc78-8b4c2f6d6e07,intuitions.software,available,11.98,56.98,medium,low,10,namecheap,,,20/09/2026 19:28
 31b6b76e-b21f-4a7f-bf33-458f5bf7e4a2,council.software,available,29.99,50.99,high,low,7,name.com,,,24/09/2026 18:38
+5ded4750-29d6-4be8-9a7e-5154590ad5dd,intentions.software,available,16.22,34.35,medium,low,10,dynadot,,,27/09/2026 22:32
 88c001f0-97cd-42b6-aba5-9689d1de561a,ineffably.software,available,11.98,56.98,medium,low,9,namecheap,,,15/09/2026 07:55
 77e4f37c-c143-481b-a71b-d6e6eebc2b00,fatherless.software,available,11.98,56.98,medium,low,10,namecheap,,,17/08/2026 23:34
 4152cf26-df51-4d9f-91f0-3e020fec0640,silent.software,resell,,,high,low,6,"GoDaddy.com, LLC",08/05/2026 17:08,08/05/2027 17:08,26/09/2026 09:01
@@ -120,7 +123,7 @@ b2ad0827-e1f6-4ea6-b877-e047d4b7f27f,unsent.software,available,11.98,56.98,mediu
 7d21e043-d2cd-4d05-980c-9a903aa1a263,joyfully.software,available,11.98,56.98,high,low,8,namecheap,,,14/09/2026 21:32
 cc7bf703-8f07-42ab-824c-d5f454493ed9,unreported.software,available,11.98,56.98,medium,low,10,namecheap,,,12/09/2026 18:19
 a48f4565-df6e-418a-80f5-b97c3ebaacb1,ascending.software,available,11.98,56.98,high,low,9,namecheap,,,07/08/2026 00:51
-1cd8c994-0747-49df-95de-92f0bb07e8ad,stretchy.software,available,11.98,56.98,high,low,8,namecheap,,,10/09/2026 22:32
+1cd8c994-0747-49df-95de-92f0bb07e8ad,stretchy.software,available,11.98,56.98,medium,low,8,namecheap,,,10/09/2026 22:32
 447d39a9-6a26-44cd-a5d4-443ee92df15c,tonic.software,available,29.99,50.99,high,low,5,name.com,,,19/09/2026 16:01
 d7c06b86-f1ad-4f3b-a428-0c9c5448e383,annulet.software,available,20.99,41.99,medium,low,7,namesilo,,,19/09/2026 10:59
 6b908114-75be-4040-b4b2-bb8718016d2e,observing.software,available,11.98,56.98,high,low,9,namecheap,,,04/09/2026 00:01
@@ -140,7 +143,7 @@ d06bf344-3127-442f-98cb-4aaee3b1bcd9,painful.software,available,11.98,56.98,high
 5768de7c-a04e-4cb8-8246-2bea24a5a3e7,insipid.software,available,11.98,56.98,medium,low,7,namecheap,,,10/08/2026 12:59
 7ca1d8c8-3523-40dc-b101-ff4cb6aeed0d,azores.software,available,20.99,41.99,medium,low,6,namesilo,,,17/09/2026 02:13
 359e7795-3f6f-457c-895a-465721497d46,alnico.software,available,20.99,41.99,medium,low,6,namesilo,,,18/09/2026 12:50
-dde1b4c6-4239-4e78-bc29-2ebe6b63a9b0,barman.software,available,20.99,41.99,high,low,6,namesilo,,,22/09/2026 06:19
+dde1b4c6-4239-4e78-bc29-2ebe6b63a9b0,barman.software,available,20.99,41.99,medium,low,6,namesilo,,,22/09/2026 06:19
 a91108d2-30bf-4a87-bed4-2a1e40c997de,collateral.software,available,11.98,56.98,high,low,10,namecheap,,,12/08/2026 16:42
 48500250-1b97-4c5f-bdfc-2070fd3d5fad,cochran.software,available,16.22,34.35,medium,low,7,dynadot,,,27/09/2026 12:38
 c1e055d0-342c-4abe-9037-53dbf49e3892,boethius.software,available,20.99,41.99,medium,low,8,namesilo,,,19/09/2026 08:26
@@ -148,36 +151,38 @@ c1e055d0-342c-4abe-9037-53dbf49e3892,boethius.software,available,20.99,41.99,med
 db0c1408-f16b-47e9-bf20-b4341081b502,ttyl.software,available,19.99,,medium,low,4,name.com,,,
 479ecf93-3955-4067-9a13-f9743130c19a,acerola.software,available,20.99,41.99,medium,low,7,namesilo,,,16/09/2026 23:42
 35fd6c8b-a55e-4dc6-aa4d-dd45c56e3c9f,boffo.software,available,11.98,56.98,high,low,5,namecheap,,,10/08/2026 16:57
+7a882ccb-354b-4f0a-aa86-5e6dd0d01010,eps.software,premium,54.36,108.6,high,low,3,porkbun,,,27/09/2026 19:02
 14a36405-3eb0-492e-89e8-bcc13c78bba2,borodin.software,available,20.99,41.99,high,low,7,namesilo,,,18/09/2026 05:02
 e048c870-d6c8-462c-a016-b9c7747aec8c,tunica.software,available,11.98,56.98,medium,low,6,namecheap,,,17/09/2026 10:35
 edf8bdc2-ee17-4749-8f81-8e38a2a1edbe,gloaming.software,available,11.98,56.98,medium,low,8,namecheap,,,11/09/2026 21:41
 fb2c21b2-2827-4597-b40c-d703f8a46540,crepuscle.software,available,11.98,56.98,medium,low,9,namecheap,,,11/09/2026 21:50
 c7e20835-fa94-413f-a7ea-0e8b88759f0a,cantabile.software,available,11.98,56.98,medium,low,9,namecheap,,,11/08/2026 17:38
 8af80a17-8e5a-4c8a-96c8-9d93f1e93492,mocking.software,available,11.98,56.98,medium,low,7,namecheap,,,14/08/2026 02:52
-5c37a46f-d7d9-4f10-859a-453f3267821b,prizes.software,available,20.99,41.99,high,low,6,namesilo,,,20/09/2026 04:19
+5c37a46f-d7d9-4f10-859a-453f3267821b,prizes.software,available,20.99,41.99,medium,low,6,namesilo,,,20/09/2026 04:19
 fa2f31af-12bd-42c0-966e-a6e567f1480d,trimly.software,available,20.99,41.99,medium,low,6,namesilo,,,16/09/2026 09:29
 55cecd0b-e24b-442b-a37e-988e18b7effd,mussy.software,available,11.98,56.98,medium,low,5,namecheap,,,24/08/2026 21:24
 9d99bc78-02b9-45db-aac1-c03b4d561f48,prate.software,available,20.99,41.99,medium,low,5,namesilo,,,23/09/2026 23:29
-5fa06e59-9a39-43d3-b729-131ba3e03087,lack.software,available,11.98,56.98,high,low,4,namecheap,,,27/09/2026 03:43
+5fa06e59-9a39-43d3-b729-131ba3e03087,lack.software,available,11.98,56.98,medium,low,4,namecheap,,,27/09/2026 03:43
 3683f657-2dd2-4097-a3aa-ef5355739362,anteater.software,available,20.99,41.99,high,low,8,namesilo,,,16/09/2026 13:25
 bdde985e-66f7-4f94-9e85-f38a34ff9aa6,enwrapped.software,available,11.98,56.98,medium,low,9,namecheap,,,
 83a9cf0c-8d39-4af2-bbed-caad7bc44229,inertial.software,available,11.98,56.98,medium,low,8,namecheap,,,22/08/2026 03:59
 998f6304-0613-40b0-834a-3b68f25e296a,derisory.software,available,11.98,56.98,low,low,8,namecheap,,,14/08/2026 02:56
-0ce289ab-247c-4483-902e-95dd53c44192,incessant.software,available,11.98,56.98,high,low,9,namecheap,,,11/08/2026 23:04
+0ce289ab-247c-4483-902e-95dd53c44192,incessant.software,available,11.98,56.98,medium,low,9,namecheap,,,11/08/2026 23:04
 37545fdb-528e-4e6c-8b7b-550671aa83be,yearling.software,available,20.99,41.99,high,low,8,namesilo,,,22/09/2026 00:38
 b68ff7b8-f21f-46cd-9a13-79b21387ef81,atlantic.software,resell,,,high,low,8,"GoDaddy.com, LLC",08/05/2026 17:08,08/05/2027 17:08,26/09/2026 04:06
 3626c0e9-9ed0-4d9d-8fd6-b48661bb0f75,obsessive.software,available,11.98,56.98,high,low,9,namecheap,,,25/09/2026 23:45
 1dbc456b-8207-4e14-9a3e-ab127ef956df,multipurpose.software,available,19.99,,medium,low,13,name.com,,,
 997135e3-334a-41cc-8032-aae9049bf6c8,changes.software,available,19.99,,medium,low,7,name.com,,,
 a6bc57c9-a67b-4007-b198-74d2e2e2acd6,nonexempt.software,available,11.98,56.98,medium,low,9,namecheap,,,03/09/2026 19:09
+e6c9aeb9-2271-4deb-b316-b143b6639662,forgot.software,available,20.99,41.99,medium,low,6,namesilo,,,27/09/2026 21:47
 6bd8e142-7a9a-47d1-8827-c65540d513e6,dormie.software,available,11.98,56.98,medium,low,6,namecheap,,,14/08/2026 16:21
 0a6f47e3-072f-4c10-b47e-01f5e342ba74,jadestone.software,available,11.98,56.98,medium,low,9,namecheap,,,22/08/2026 11:54
-6988ad55-dce6-4c86-88d8-b325d089cf3c,slim.software,available,19.99,,high,low,4,name.com,,,
+6988ad55-dce6-4c86-88d8-b325d089cf3c,slim.software,available,10.55,33.32,high,low,4,spaceship,,,27/09/2026 22:35
 aab115d7-73c4-4878-a228-456596f612e3,smoothed.software,available,11.98,56.98,medium,low,8,namecheap,,,10/09/2026 12:07
 fd0b285c-4093-4ea8-b386-8147fa19bff4,apposite.software,available,11.98,56.98,medium,low,8,namecheap,,,06/08/2026 07:53
 0cdf650d-71f3-4821-9bbe-fb7b2320b27b,borrowed.software,available,20.99,41.99,medium,low,8,namesilo,,,27/09/2026 09:49
 21085633-abdb-4535-a7f9-20e04f0591a1,alewife.software,available,20.99,41.99,medium,low,7,namesilo,,,18/09/2026 05:44
-9990d919-35e4-4b23-863b-9d051a329f62,laborer.software,available,19.99,,high,low,7,name.com,,,
+9990d919-35e4-4b23-863b-9d051a329f62,laborer.software,available,19.99,,medium,low,7,name.com,,,
 733c5cf0-52d0-47c1-bd9f-ac24808249eb,gamers.software,available,20.99,41.99,high,low,6,namesilo,,,20/09/2026 23:00
 62436bba-33e7-439b-a685-1a905dc23aaf,graphics.software,premium,500,,high,low,8,name.com,,,
 ae995dbc-be0a-4d7a-a1a0-215a1d2581c9,asphyxia.software,available,20.99,41.99,medium,low,8,namesilo,,,20/09/2026 15:10
@@ -198,7 +203,7 @@ b2c69626-6892-43f3-b1a3-5157bfbde6f5,backseat.software,available,20.99,41.99,hig
 447b97c9-ed04-4fe5-9460-4c9fdee245e1,leasing.software,resell,,,high,low,7,"NameSilo, LLC",15/09/2024 13:43,15/09/2027 13:43,26/09/2026 07:11
 9c3be331-7f8f-4fab-9bb9-a9f7adb2a6bf,leftist.software,available,11.98,56.98,medium,low,7,namecheap,,,12/08/2026 17:05
 5484cd60-c444-4af7-b92d-5f795152a418,intolerant.software,available,11.98,56.98,medium,low,10,namecheap,,,21/08/2026 20:02
-3fda1756-2c43-4574-8ef6-94745f22fa69,fungicide.software,available,11.98,56.98,high,low,9,namecheap,,,
+3fda1756-2c43-4574-8ef6-94745f22fa69,fungicide.software,available,11.98,56.98,medium,low,9,namecheap,,,
 fec26440-dffc-4bd7-b207-a1db3ef47a29,greg.software,available,20.99,41.99,high,low,4,namesilo,,,25/09/2026 10:39
 5016fb1a-992a-419f-b073-553134a8853c,involvement.software,available,19.99,,high,low,11,name.com,,,
 520bc58b-a870-44bb-a9e3-7f8002066d1c,dinosaur.software,available,19.99,,high,low,8,name.com,,,
@@ -209,7 +214,7 @@ fc659e9b-c273-4903-8425-04cf76702d5a,rat.software,premium,118.8,118.8,high,low,3
 7e640ee0-734f-4b32-a9ff-68e65f4d032d,report.software,premium,500,,high,low,6,name.com,,,
 5ea43404-04b7-48ac-98aa-54cf790b7ebc,inspiring.software,available,20.99,41.99,high,low,9,namesilo,,,25/09/2026 09:50
 33d2977e-b2c1-47ff-9748-710a6ca898c0,aberrant.software,available,11.98,56.98,high,low,8,namecheap,,,
-c62959e5-1e7b-4823-bbe3-a32da96c3aa7,video.software,premium,3450,3450,high,medium,5,namesilo,,,25/09/2026 15:08
+c62959e5-1e7b-4823-bbe3-a32da96c3aa7,video.software,premium,2587.7,2587.7,high,medium,5,spaceship,,,28/09/2026 02:56
 a9f35a31-da1b-44c4-a523-7ccf950afa6c,temperate.software,available,11.98,56.98,high,low,9,namecheap,,,11/09/2026 10:48
 d7d328e2-f51a-4b82-ad34-ac99c1cab9ee,sentences.software,available,11.98,56.98,medium,low,9,namecheap,,,16/09/2026 20:11
 edb388c8-b88b-4bd9-a991-90a029cd3e3e,motherless.software,available,11.98,56.98,medium,low,10,namecheap,,,25/08/2026 07:02
@@ -225,7 +230,7 @@ de99f97a-14e8-4615-8624-11b3d50f7219,angeles.software,available,11.98,56.98,high
 cc2d84b8-dee3-4510-8e49-684331321b7f,beguine.software,available,20.99,41.99,medium,low,7,namesilo,,,23/09/2026 02:59
 6b25ff3b-ca4c-4819-9be7-8ccaef47e469,dies.software,available,11.98,56.98,medium,low,4,namecheap,,,25/09/2026 16:12
 5afeee79-4c5c-42de-8af6-8154b79e0871,nfl.software,available,20.99,41.99,high,low,3,namesilo,,,26/09/2026 03:28
-d03daf5f-e6d8-4c0d-a4aa-49a1c49974b7,posters.software,available,19.99,,high,low,7,name.com,,,
+d03daf5f-e6d8-4c0d-a4aa-49a1c49974b7,posters.software,available,19.99,,medium,low,7,name.com,,,
 4ec990f1-7078-40fb-b52b-ff65707ad2bd,whoreson.software,available,11.98,56.98,low,low,8,namecheap,,,08/08/2026 23:43
 4bbcf6c1-fea2-4efc-b481-a25057b101f4,ambrose.software,available,20.99,41.99,high,low,7,namesilo,,,18/09/2026 17:22
 c7d0ce48-167a-4fb2-951d-05b5d10f5207,accomplice.software,available,20.99,41.99,high,low,10,namesilo,,,16/09/2026 22:50
@@ -236,26 +241,26 @@ daa7dc7f-a600-4a04-bd9b-b91c06b0eb6f,bergamot.software,available,20.99,41.99,hig
 4fce11bb-9138-4bb7-bc71-8a7305a2048f,heatless.software,available,11.98,56.98,medium,low,8,namecheap,,,21/08/2026 02:27
 9c827ad5-0b20-48c7-97eb-93a5df83ad5a,confess.software,available,19.99,,high,low,7,name.com,,,
 6e8c7d52-f1c6-43bd-b7b6-fcee9203c063,told.software,available,19.99,,medium,low,4,name.com,,,
-24204083-1651-4798-851a-f954ebdb0970,achene.software,available,20.99,41.99,high,low,6,namesilo,,,17/09/2026 00:28
+24204083-1651-4798-851a-f954ebdb0970,achene.software,available,20.99,41.99,medium,low,6,namesilo,,,17/09/2026 00:28
 da2506c6-f732-4720-8f8b-ed8ab248c772,cyclonic.software,available,29.99,50.99,medium,low,8,name.com,,,13/08/2026 13:42
 b52dbf24-9bb6-4aa5-99b4-9e9732d3e267,bolster.software,available,19.99,,high,low,7,name.com,,,
 875dfb0f-600d-4780-82f7-9f61f34f9316,vexed.software,available,11.98,56.98,medium,low,5,namecheap,,,21/08/2026 00:15
 0f007ad3-9168-434e-aa78-7c4de0a54ddc,moire.software,available,11.98,56.98,medium,low,5,namecheap,,,25/08/2026 03:26
 59b3edd7-77b4-4664-88d9-e62e6b127213,oxidized.software,available,11.98,56.98,medium,low,8,namecheap,,,04/09/2026 22:25
 036a6cc3-5a96-4c6d-8974-e432c1f9bbba,aguish.software,available,11.98,56.98,medium,low,6,namecheap,,,
-bc91eb10-377d-4149-b419-ef201337e0dc,retiring.software,available,19.99,,high,low,8,name.com,,,
+bc91eb10-377d-4149-b419-ef201337e0dc,retiring.software,available,10.55,33.32,high,low,8,spaceship,,,27/09/2026 13:20
 5cfbe68e-0d33-45fb-a4dc-9935848d8257,sculpted.software,available,11.98,56.98,high,low,8,namecheap,,,20/08/2026 18:50
 57db294b-2e55-4f19-bf88-675f2bf02b4f,unworthy.software,available,11.98,56.98,medium,low,8,namecheap,,,14/08/2026 04:05
 ec4bbcdc-538b-49c4-9a12-0fc27feaadc4,rocket.software,premium,242,242,high,medium,6,namesilo,,,
 470631ea-d49c-44c5-a3cb-4d63b7340687,stunner.software,available,11.98,56.98,high,low,7,namecheap,,,22/08/2026 16:40
-2b37b2a0-b53f-483b-8011-cc34ade0ca11,underestimate.software,available,19.99,,high,low,13,name.com,,,
+2b37b2a0-b53f-483b-8011-cc34ade0ca11,underestimate.software,available,19.99,,medium,low,13,name.com,,,
 4ee3664b-ee32-4db8-9cf0-b63d1cbd50e5,consoling.software,available,11.98,56.98,high,low,9,namecheap,,,12/08/2026 22:42
 a76d0c12-e8c3-41ac-a779-95dbb3c42251,chilling.software,available,11.98,56.98,medium,low,8,namecheap,,,12/08/2026 05:19
 4777c482-67ca-431f-82d3-2251fecb6a7f,arccos.software,available,20.99,41.99,medium,low,6,namesilo,,,20/09/2026 01:15
 35723e42-ba6f-4488-8c75-35819aaa3dc9,campestral.software,available,11.98,56.98,medium,low,10,namecheap,,,11/08/2026 16:05
 c8697162-25c5-4316-abad-6b8ae68ab8ce,atilt.software,available,11.98,56.98,medium,low,5,namecheap,,,07/08/2026 13:13
 a4a82072-6bae-4be1-a1db-82dbdcc50939,fate.software,available,19.99,,high,low,4,name.com,,,
-018b5400-5996-4eb1-b648-4da084a80382,mammalian.software,available,11.98,56.98,high,low,9,namecheap,,,24/08/2026 14:19
+018b5400-5996-4eb1-b648-4da084a80382,mammalian.software,available,11.98,56.98,medium,low,9,namecheap,,,24/08/2026 14:19
 92dac741-820e-4add-96cc-8c3f48b726dd,intangible.software,available,11.98,56.98,high,low,10,namecheap,,,21/08/2026 21:42
 b7aee4a7-e795-4300-ac5e-bc47d703f891,autumnal.software,available,11.98,56.98,medium,low,8,namecheap,,,07/08/2026 21:23
 90e692db-e217-4954-a13a-e9c53e0b1c47,tense.software,available,11.98,56.98,high,low,5,namecheap,,,11/09/2026 11:26
@@ -263,6 +268,7 @@ b7aee4a7-e795-4300-ac5e-bc47d703f891,autumnal.software,available,11.98,56.98,med
 004e95e9-5ec8-474c-844e-c7291c35274f,metrical.software,available,11.98,56.98,medium,low,8,namecheap,,,24/08/2026 22:08
 6c47e1a1-8582-4da0-ad91-170c67501d47,shed.software,available,29.99,50.99,high,low,4,name.com,,,23/09/2026 12:18
 3904b118-3ae5-4a87-b233-cfc9a3b48aeb,champagne.software,available,20.99,41.99,high,low,9,namesilo,,,23/09/2026 10:06
+4c5dd03d-5a86-47f9-8a42-0023348af270,harriet.software,available,20.99,41.99,high,low,7,namesilo,,,27/09/2026 22:29
 e8d95b09-c638-451c-b25b-c2a95c40d5e9,revengeful.software,available,11.98,56.98,medium,low,10,namecheap,,,09/09/2026 16:00
 48b95e79-eb9a-49fe-bbd8-95271fb08ceb,eloquently.software,available,11.98,56.98,medium,low,10,namecheap,,,13/09/2026 20:54
 ddf176de-0506-4146-b825-45d6b76a52d1,liquefied.software,available,11.98,56.98,medium,low,9,namecheap,,,23/08/2026 22:01
@@ -281,7 +287,7 @@ f4e78f24-575a-4aa6-b35e-0f088965573d,aborigine.software,available,11.98,56.98,me
 5082276e-c8bb-4c0b-bc6e-bdfc9f3903d3,tike.software,available,11.98,56.98,medium,low,4,namecheap,,,25/08/2026 00:12
 2be6a5f1-1e94-41cf-93c5-dc94700517b9,shot.software,available,20.99,41.99,high,low,4,namesilo,,,23/09/2026 13:53
 f2ea9534-45d5-45fb-a76e-6a42018c0ad7,vaulting.software,available,11.98,56.98,high,low,8,namecheap,,,04/09/2026 21:34
-a22fd7eb-a1b5-4271-b81c-3ebe390290c3,dutiful.software,available,11.98,56.98,high,low,7,namecheap,,,14/08/2026 21:39
+a22fd7eb-a1b5-4271-b81c-3ebe390290c3,dutiful.software,available,11.98,56.98,medium,low,7,namecheap,,,14/08/2026 21:39
 3f37d2a3-3a01-4e3f-8155-0f0160e1ff67,screwdrivers.software,available,11.98,56.98,medium,low,12,namecheap,,,20/09/2026 04:52
 31fd2ed8-edc0-4cb8-b495-ce2832246db8,asexually.software,available,11.98,56.98,medium,low,9,namecheap,,,13/09/2026 22:03
 e10eaa52-503f-43e8-a6a4-24ed164a0245,alummah.software,available,20.99,41.99,medium,low,8,namesilo,,,18/09/2026 01:08
@@ -291,7 +297,7 @@ f3f65372-9c5f-4d12-bcaa-6be0fafb5c34,revelatory.software,available,11.98,56.98,h
 f5df210e-1e32-4eb9-87a3-ca3fab3531ad,charcoal.software,available,11.98,56.98,high,low,8,namecheap,,,12/08/2026 02:24
 c8127f50-9329-4e1d-9b6f-16f46b65863e,beanstalk.software,available,20.99,41.99,high,low,9,namesilo,,,22/09/2026 20:43
 c55f084f-8803-4cef-8e84-7fc1403c4833,designing.software,premium,500,500,high,low,9,name.com,,,14/08/2026 03:45
-8f2d0f3c-1e59-4a99-a30e-228579b1001e,greasy.software,available,11.98,56.98,high,low,6,namecheap,,,20/08/2026 19:35
+8f2d0f3c-1e59-4a99-a30e-228579b1001e,greasy.software,available,11.98,56.98,medium,low,6,namecheap,,,20/08/2026 19:35
 3f87e27c-1f89-4b5f-a979-95a234ecbe97,flexibly.software,available,11.98,56.98,medium,low,8,namecheap,,,14/09/2026 18:58
 31677f7c-f97a-4800-ac23-e81f63862512,rarified.software,available,11.98,56.98,medium,low,8,namecheap,,,17/08/2026 15:46
 06db5074-2627-4e5b-a609-954420af9c8e,errorless.software,available,11.98,56.98,high,low,9,namecheap,,,17/08/2026 13:01
@@ -308,7 +314,7 @@ d963443c-3039-4a68-8a4f-2279798db544,pretense.software,available,20.99,41.99,hig
 33d833a2-52cd-4d9e-9821-6ed4a45e4c54,brings.software,available,20.99,41.99,medium,low,6,namesilo,,,18/09/2026 15:15
 65214e13-a884-4b1e-a959-0a4c80df18dc,concurrent.software,available,11.98,56.98,high,low,10,namecheap,,,12/08/2026 13:22
 a9c400ad-bdd6-4faa-9eb5-c0f4c5da8d00,skinless.software,available,11.98,56.98,medium,low,8,namecheap,,,10/09/2026 09:42
-e7e4cae4-a0f4-42e1-bae4-5d8331f20411,xxii.software,available,20.99,41.99,high,low,4,namesilo,,,21/09/2026 12:40
+e7e4cae4-a0f4-42e1-bae4-5d8331f20411,xxii.software,available,20.99,41.99,medium,low,4,namesilo,,,21/09/2026 12:40
 f1cdca39-7607-49a1-a30b-afad8b5ed68f,andante.software,available,11.98,56.98,medium,low,7,namecheap,,,
 b0a80c6c-e6ed-4d9e-bdda-836026b966f3,jarring.software,available,11.98,56.98,medium,low,7,namecheap,,,22/08/2026 12:26
 51655a22-00b1-4dca-a67d-4aee9d590dff,mobs.software,available,20.99,41.99,medium,low,4,namesilo,,,18/09/2026 05:11
@@ -319,7 +325,7 @@ a1bfa4c7-ed53-4e08-b112-72bbe768cefe,lights.software,available,19.99,,high,low,6
 ca8b2643-b375-4cff-bc1e-d0f6491ac8cb,whistle.software,available,20.99,41.99,high,low,7,namesilo,,,25/09/2026 23:59
 0e7028a3-ab3b-493f-9e5b-93b06a1cf5ec,royally.software,available,11.98,56.98,medium,low,7,namecheap,,,15/09/2026 12:01
 284037bb-bc49-475e-9d5c-73695c46ed4d,chips.software,available,19.99,,high,low,5,name.com,,,
-f913b282-5193-4711-a659-203026fc61b4,fallow.software,available,11.98,56.98,high,low,6,namecheap,,,17/08/2026 21:32
+f913b282-5193-4711-a659-203026fc61b4,fallow.software,available,11.98,56.98,medium,low,6,namecheap,,,17/08/2026 21:32
 132f1e8c-78fd-420a-9eaa-085c17e4f84e,criminals.software,available,20.99,41.99,low,low,9,namesilo,,,27/09/2026 03:03
 1163158e-cb47-4550-a06f-45ce0a4c65a5,reveals.software,available,11.98,56.98,medium,low,7,namecheap,,,20/09/2026 06:30
 181f0a74-55ca-4965-af1d-386b773501a2,aiken.software,available,11.98,56.98,high,low,5,namecheap,,,17/09/2026 21:01
@@ -331,8 +337,9 @@ f90b1c7c-28fb-4f85-9fee-38bad78ac9a0,nix.software,premium,242,242,high,low,3,nam
 228bbbf6-8abc-47f9-a619-9267ddb215d0,rescued.software,available,11.98,56.98,high,low,7,namecheap,,,09/09/2026 11:35
 752c203b-bbb6-4624-bef9-08b17f8c224e,squat.software,available,11.98,56.98,high,low,5,namecheap,,,25/09/2026 15:16
 53ac2221-3185-47af-ae6f-d428ce78dbdf,alpenstock.software,available,11.98,56.98,medium,low,10,namecheap,,,18/09/2026 13:32
-7561927b-f9c5-4c74-a4b5-294a44e57c7b,hillary.software,available,20.99,41.99,high,low,7,namesilo,,,27/09/2026 03:48
+7561927b-f9c5-4c74-a4b5-294a44e57c7b,hillary.software,available,20.99,41.99,medium,low,7,namesilo,,,27/09/2026 03:48
 09cf7c55-c88c-41ce-9c63-535ffd95c467,penally.software,available,11.98,56.98,medium,low,7,namecheap,,,15/09/2026 19:29
+1cfdf66b-d092-4109-b6bd-e6fe4875a6e9,janice.software,available,20.99,41.99,high,low,6,namesilo,,,27/09/2026 19:53
 fdbca81f-1b3f-40b8-adb0-c399e5576ef6,darned.software,available,11.98,56.98,medium,low,6,namecheap,,,10/08/2026 12:41
 727921f2-78bb-45d7-87d8-dd6ec1aca016,classy.software,available,11.98,56.98,high,low,6,namecheap,,,12/08/2026 09:52
 6f348d4f-86e1-42fc-baea-78e6f805b474,oreo.software,available,19.99,,high,low,4,name.com,,,
@@ -356,7 +363,7 @@ a842cac9-5af1-497d-8968-e8f40804a7b6,muggy.software,available,11.98,56.98,medium
 b9ffa573-9ced-4199-9217-004a31ec635f,guiding.software,available,11.98,56.98,high,low,7,namecheap,,,14/08/2026 08:49
 50aee387-862c-486a-929c-36120842a9df,fraud.software,resell,,,high,low,5,"Spaceship, Inc.",29/12/2025 19:59,29/12/2026 19:59,27/09/2026 07:55
 bd998c6b-2fa1-4c95-b1bd-16e6e05c9a77,counselling.software,available,20.99,41.99,high,low,11,namesilo,,,17/09/2026 12:13
-2b74b1b8-c0b2-4998-95b1-4a8a26d0ee47,protrude.software,available,11.98,56.98,high,low,8,namecheap,,,08/09/2026 23:44
+2b74b1b8-c0b2-4998-95b1-4a8a26d0ee47,protrude.software,available,11.98,56.98,medium,low,8,namecheap,,,08/09/2026 23:44
 a231aa4e-c731-4628-9201-90b2bd6d3499,behemoth.software,available,20.99,41.99,high,low,8,namesilo,,,23/09/2026 03:24
 53e13889-35a7-4f47-9235-87c31f611865,psychical.software,available,11.98,56.98,medium,low,9,namecheap,,,09/09/2026 05:07
 0ee3032e-1bbb-4929-a03a-3072f3aeaca0,precursors.software,available,11.98,56.98,medium,low,10,namecheap,,,21/09/2026 00:35
@@ -371,7 +378,7 @@ b9601ac2-a585-4800-abb9-ecf54f0d797a,lovingly.software,available,11.98,56.98,hig
 ac48aac4-9de8-4ef8-8fdf-2911936313ed,dresses.software,available,20.99,41.99,medium,low,7,namesilo,,,18/09/2026 07:11
 2658c0e6-3549-4981-8d73-dbaf3d96a49f,somerville.software,available,20.99,41.99,medium,low,10,namesilo,,,27/09/2026 01:44
 d3bf35cc-30c0-4c44-94c8-51f38dda7984,drapes.software,available,20.99,41.99,high,low,6,namesilo,,,17/09/2026 07:49
-e02df393-0ebd-4b61-9233-9742ca7a6b5d,smell.software,available,19.99,,high,low,5,name.com,,,
+e02df393-0ebd-4b61-9233-9742ca7a6b5d,smell.software,available,20.99,41.99,high,low,5,namesilo,,,27/09/2026 22:50
 69bf6f89-6bf5-4ecd-bc28-85af730be462,railways.software,available,20.99,41.99,medium,low,8,namesilo,,,18/09/2026 22:58
 29f30dfd-e56f-4983-9e66-3acd78a1e5ff,baldy.software,available,20.99,41.99,medium,low,5,namesilo,,,21/09/2026 21:43
 c3623166-5480-4ce6-ab6e-1b5fad77b3bb,galaxy.software,resell,,,high,medium,6,"GoDaddy.com, LLC",23/07/2021 16:03,23/07/2027 16:03,26/09/2026 06:18
@@ -383,11 +390,11 @@ ba11876d-42b3-4c4a-ab9f-30e733221e9e,jumbled.software,available,11.98,56.98,medi
 357d2964-3738-4e38-839b-750cd5632f88,locke.software,available,20.99,41.99,high,low,5,namesilo,,,25/09/2026 08:02
 bdbd27a3-6636-459c-b766-989fa5fe2bd2,proverb.software,available,20.99,41.99,high,low,7,namesilo,,,17/09/2026 06:07
 a4fc05ae-69bc-4fc1-9e8a-23d0dbc42663,diplomatic.software,available,20.99,41.99,high,low,10,namesilo,,,24/09/2026 10:36
-2854ad67-7687-4f17-bbc1-cef7880ef8b7,teensy.software,available,11.98,56.98,high,low,6,namecheap,,,10/08/2026 08:01
+2854ad67-7687-4f17-bbc1-cef7880ef8b7,teensy.software,available,11.98,56.98,medium,low,6,namecheap,,,10/08/2026 08:01
 6d3038ea-0964-425f-9d83-a4e17c1fa6ad,orthoptic.software,available,11.98,56.98,medium,low,9,namecheap,,,04/09/2026 18:06
 88c12d95-b03f-4a84-a5e4-68ceae6d9d91,analecta.software,available,20.99,41.99,medium,low,8,namesilo,,,19/09/2026 01:47
-c9f4383e-625e-4271-adf7-32eb11ad8344,rime.software,available,11.98,56.98,high,low,4,namecheap,,,21/08/2026 10:08
-dea04e6c-a17d-4900-91a7-a26aa64a12a4,perforation.software,available,19.99,,high,low,11,name.com,,,
+c9f4383e-625e-4271-adf7-32eb11ad8344,rime.software,available,11.98,56.98,medium,low,4,namecheap,,,21/08/2026 10:08
+dea04e6c-a17d-4900-91a7-a26aa64a12a4,perforation.software,available,19.99,,medium,low,11,name.com,,,
 d01e0459-524a-4224-a019-a6c04c3b4fa1,benne.software,available,20.99,41.99,medium,low,5,namesilo,,,23/09/2026 08:27
 f10963dc-fe3c-41e5-80a3-7ea9f7d3cd1b,introductory.software,available,19.99,,high,low,12,name.com,,,
 5c99b0e7-9e30-426a-b383-8fe645f8ed72,warning.software,available,11.98,56.98,high,low,7,namecheap,,,13/09/2026 08:25
@@ -405,11 +412,11 @@ cbdb4e50-6a15-48e3-8690-2db0e3ed257d,bari.software,available,20.99,41.99,high,lo
 8be3c455-1d4c-4089-a64b-817326547d1e,xiv.software,available,20.99,41.99,high,low,3,namesilo,,,21/09/2026 11:42
 f411f4ea-6745-459a-817e-b2d32f3d953c,devout.software,available,11.98,56.98,high,low,6,namecheap,,,14/08/2026 05:17
 450f85b7-bafc-4e97-9cc2-8b27121309db,comp.software,premium,520,520,high,low,4,namecheap,,,23/09/2026 17:59
-b1c33057-c7b1-4ffa-a375-793aeeaaac00,fiend.software,available,11.98,56.98,high,low,5,namecheap,,,17/08/2026 21:54
+b1c33057-c7b1-4ffa-a375-793aeeaaac00,fiend.software,available,11.98,56.98,medium,low,5,namecheap,,,17/08/2026 21:54
 46c1b513-2433-4a53-802e-36fdfd1cdba4,aunts.software,available,20.99,41.99,medium,low,5,namesilo,,,18/09/2026 15:51
 1e478825-3edd-4cbc-8888-d14d49b99864,apogamy.software,available,11.98,56.98,medium,low,7,namecheap,,,19/09/2026 18:27
 36d893c9-7c66-497c-a110-49f1d3e82781,reposeful.software,available,11.98,56.98,medium,low,9,namecheap,,,09/09/2026 13:28
-49fba0a4-3075-4f2d-a857-c264a9103cd0,merchandise.software,available,20.99,41.99,high,low,11,namesilo,,,25/09/2026 14:54
+49fba0a4-3075-4f2d-a857-c264a9103cd0,merchandise.software,available,10.55,33.32,high,low,11,spaceship,,,28/09/2026 03:28
 072f25e0-b5ef-4856-832b-8703a91c33d5,behring.software,available,11.98,56.98,high,low,7,namecheap,,,23/09/2026 04:03
 525e9593-99b5-4db3-a7a9-b8f552f7c3fb,fights.software,available,20.99,41.99,medium,low,6,namesilo,,,20/09/2026 00:14
 721c6641-0341-4d70-90b1-97c49a51a431,cervical.software,available,11.98,56.98,high,low,8,namecheap,,,12/08/2026 00:58
@@ -424,11 +431,11 @@ bc584c6b-4c61-4715-bacf-26e1ba9b728c,infancy.software,available,20.99,41.99,high
 fac42809-7743-46c7-8a78-ed2ff77ed93f,lighten.software,available,19.99,,high,low,7,name.com,,,
 13c26a06-3ae9-4e7c-b8e3-14999b7f2fda,marvel.software,available,19.99,,high,low,6,name.com,,,
 2a4cdd20-1d42-4a65-b2f4-6527627e68d7,guided.software,available,11.98,56.98,high,low,6,namecheap,,,20/08/2026 20:47
-99331085-2e88-4d36-8c4f-b75920aab631,tashkent.software,available,20.99,41.99,high,low,8,namesilo,,,24/09/2026 12:32
+99331085-2e88-4d36-8c4f-b75920aab631,tashkent.software,available,20.99,41.99,medium,low,8,namesilo,,,24/09/2026 12:32
 f6706de2-2dc8-4e73-8f87-c80282ddc750,abo.software,available,11.98,56.98,high,low,3,namecheap,,,
 9a29eb69-cf91-404e-b6d5-8b83587a7c0a,binding.software,available,11.98,56.98,high,low,7,namecheap,,,22/09/2026 20:51
 9a43c924-2804-44fe-af35-67f6ce931e32,dowdy.software,available,11.98,56.98,medium,low,5,namecheap,,,14/08/2026 17:09
-c78e000d-1ae0-4cae-aa2d-cc4148252732,earliest.software,available,20.99,41.99,high,low,8,namesilo,,,24/09/2026 12:55
+c78e000d-1ae0-4cae-aa2d-cc4148252732,earliest.software,available,20.99,41.99,medium,low,8,namesilo,,,24/09/2026 12:55
 938196ec-fe3d-4b47-955c-2fe281e6b48c,cesium.software,available,20.99,41.99,medium,low,6,namesilo,,,20/09/2026 23:15
 ac444e01-c3dd-4df5-92dc-3572f492399f,hasty.software,available,11.98,56.98,medium,low,5,namecheap,,,21/08/2026 01:15
 fafe178d-2991-45a8-9735-9fd70fe3c8d3,tormented.software,available,11.98,56.98,medium,low,9,namecheap,,,
@@ -443,7 +450,8 @@ bc1e7cfd-b9b9-4bd7-92be-222de69439d2,beardless.software,available,11.98,56.98,me
 cfdb8d49-8377-48ed-b869-bfd2c27381b9,minutely.software,available,11.98,56.98,medium,low,8,namecheap,,,15/09/2026 15:04
 5de1c735-cf97-4f55-b216-04e40fca0de1,lexically.software,available,11.98,56.98,medium,low,9,namecheap,,,15/09/2026 11:16
 6e472c04-b5fc-4565-8dae-92ba08a3c780,hindu.software,premium,500,500,high,low,5,name.com,,,21/08/2026 09:30
-bf78474c-3f88-49af-ad26-1716595fde2c,visualised.software,available,11.98,56.98,high,low,10,namecheap,,,17/08/2026 10:03
+c1db3e4f-e3a2-4ded-b493-1ea13d7fe7c1,bahia.software,available,20.99,41.99,medium,low,5,namesilo,,,27/09/2026 18:32
+bf78474c-3f88-49af-ad26-1716595fde2c,visualised.software,available,11.98,56.98,medium,low,10,namecheap,,,17/08/2026 10:03
 0c9076ac-fbb6-4465-967f-7522c0a859fc,filaria.software,available,20.99,41.99,medium,low,7,namesilo,,,18/09/2026 06:14
 6fa17cd9-47cf-4a4e-ab5a-0f50c6b01af9,backstretch.software,available,19.99,,high,low,12,name.com,,,
 30a7ea0a-1078-4816-a1db-83eea38c6916,currawong.software,available,20.99,41.99,medium,low,9,namesilo,,,23/09/2026 05:33
@@ -454,6 +462,7 @@ ea102520-86d3-4acf-bf6f-8425c6b5ffef,wire.software,resell,,,high,low,4,Dynadot I
 4130c7de-d547-4574-a454-1fd726838203,speer.software,available,20.99,41.99,high,low,5,namesilo,,,18/09/2026 02:44
 045ad10a-7fbd-490b-9a0d-fd1cca38fb0f,arng.software,available,20.99,41.99,medium,low,4,namesilo,,,20/09/2026 08:02
 9193e8f8-f552-4291-ba8e-8e78bba87692,hostages.software,available,15.96,33.47,medium,low,8,porkbun,,,27/09/2026 11:30
+6145fed8-6424-48e6-ad34-12d4910ba3ef,batavia.software,available,16.22,34.35,high,low,7,dynadot,,,27/09/2026 18:11
 01fc7b9e-9185-454c-91dd-62ef594aa827,myself.software,available,20.99,41.99,high,low,6,namesilo,,,25/09/2026 12:53
 d6bb1f4f-0a2c-407d-9419-f15146069e0a,scramble.software,available,20.99,41.99,high,low,8,namesilo,,,24/09/2026 15:13
 16f8c834-20ef-4c79-9c32-4ebb49724f0c,ateles.software,available,11.98,56.98,medium,low,6,namecheap,,,20/09/2026 20:01
@@ -462,12 +471,13 @@ f53a28b4-068d-48a5-9c78-ba20c849a890,napped.software,available,11.98,56.98,mediu
 87c7da37-c774-4eef-a3f2-0a046860a90d,fragmental.software,available,11.98,56.98,medium,low,10,namecheap,,,18/08/2026 14:01
 1f1276ec-20ef-4ea2-ae04-4b581b5ffe8d,tracing.software,available,19.99,,high,low,7,name.com,,,
 cb8a4307-5133-40e7-af0e-8839be0ea3ad,unlivable.software,available,11.98,56.98,medium,low,9,namecheap,,,12/09/2026 14:57
-51d52514-83ca-43f4-9041-48fa367306bf,leslie.software,available,20.99,41.99,high,low,6,namesilo,,,25/09/2026 14:15
+e2d97d07-d93e-4d66-881e-83cd074937be,thorne.software,available,10.55,33.32,medium,low,6,spaceship,,,27/09/2026 20:29
+51d52514-83ca-43f4-9041-48fa367306bf,leslie.software,available,20.99,41.99,medium,low,6,namesilo,,,25/09/2026 14:15
 468ee87d-2429-42c6-b2b9-f30d6f8851c0,chin.software,available,19.99,,high,low,4,name.com,,,
 26a3b542-c931-4a4e-9450-1c39ef53fc5d,intestate.software,available,11.98,56.98,medium,low,9,namecheap,,,22/08/2026 08:24
 0fefcf09-f465-4580-a5cc-3c1b0c15278c,subhuman.software,available,11.98,56.98,medium,low,8,namecheap,,,10/09/2026 23:56
 e15658a1-ebb0-4ea9-8fd5-4502526dff98,discreet.software,available,11.98,56.98,high,low,8,namecheap,,,12/08/2026 08:23
-68bfa490-72dd-4668-a71f-277a757e3628,lexical.software,available,11.98,56.98,high,low,7,namecheap,,,23/08/2026 00:42
+68bfa490-72dd-4668-a71f-277a757e3628,lexical.software,available,11.98,56.98,medium,low,7,namecheap,,,23/08/2026 00:42
 d687347c-23b1-4424-a8b5-6df161104214,smuggled.software,available,11.98,56.98,medium,low,8,namecheap,,,22/09/2026 21:31
 ccb9dd66-a624-4f35-a1a0-97d344cae0a7,besieged.software,available,11.98,56.98,low,low,8,namecheap,,,09/08/2026 15:25
 02d5cea5-719e-41e5-b616-600ea2352041,apanage.software,available,20.99,41.99,medium,low,7,namesilo,,,19/09/2026 16:12
@@ -481,7 +491,8 @@ fb6c63c8-9cc8-4354-9c42-b02c4ab177ea,voluptuous.software,available,11.98,56.98,h
 42182672-43f5-4c93-93ad-73b912874c61,geeks.software,premium,118.8,118.8,high,low,5,namesilo,,,17/09/2026 16:02
 e87a6739-6263-4c42-9c87-81fd79736857,blithesome.software,available,11.98,56.98,medium,low,10,namecheap,,,10/08/2026 14:39
 bdc5fd50-e769-4245-9c1c-434c8d124d8c,genoese.software,available,11.98,56.98,high,low,7,namecheap,,,18/08/2026 21:48
-305b1a84-4d8a-4d83-84e5-98eebc023af2,nutty.software,available,11.98,56.98,high,low,5,namecheap,,,06/08/2026 21:27
+601cca60-4da7-4182-b923-ad7608647d25,marta.software,available,15.96,33.47,high,low,5,porkbun,,,27/09/2026 17:44
+305b1a84-4d8a-4d83-84e5-98eebc023af2,nutty.software,available,11.98,56.98,medium,low,5,namecheap,,,06/08/2026 21:27
 d537a218-4cc4-4fd7-96ae-0727fea83ede,brassy.software,available,11.98,56.98,medium,low,6,namecheap,,,11/08/2026 02:33
 533cdc09-c167-4833-9b81-700939e76eea,creator.software,resell,,,high,medium,7,"Sav.com, LLC - 29",16/02/2026 15:15,16/02/2027 15:15,26/09/2026 05:19
 84a4f0a9-88b5-465f-b022-298e33ea8198,cases.software,available,20.99,41.99,medium,low,5,namesilo,,,17/09/2026 16:31
@@ -519,11 +530,12 @@ cd46a0af-19c0-4453-9174-689ee656d33a,tornadoes.software,available,20.99,41.99,me
 64ddeb78-c14f-4612-83fc-fd8595ee57ea,unfretted.software,available,11.98,56.98,medium,low,9,namecheap,,,12/09/2026 10:45
 7d348972-05b3-4a30-b67e-cf57e3b286fd,pointing.software,available,11.98,56.98,high,low,8,namecheap,,,27/09/2026 08:31
 808d6dd1-5029-44df-bd86-a000a5bee366,shackled.software,available,11.98,56.98,medium,low,8,namecheap,,,18/08/2026 02:56
+b4ef595b-58f4-45e0-a3fe-ed6dda840219,accidentally.software,available,20.99,41.99,medium,low,12,namesilo,,,28/09/2026 03:20
 602251ca-1d3a-46b4-be2f-076e7dcc57d6,ounces.software,available,20.99,41.99,medium,low,6,namesilo,,,16/09/2026 11:16
 5d8e9d30-e6bb-4311-b0c3-414e9766873c,annapolis.software,available,20.99,41.99,medium,low,9,namesilo,,,19/09/2026 10:10
-57537cce-8740-4978-9961-f28685f913c4,dyed.software,available,11.98,56.98,high,low,4,namecheap,,,14/08/2026 21:54
+57537cce-8740-4978-9961-f28685f913c4,dyed.software,available,11.98,56.98,medium,low,4,namecheap,,,14/08/2026 21:54
 a20e1b49-b290-41f8-8f54-590554fab2e0,eared.software,available,11.98,56.98,medium,low,5,namecheap,,,14/08/2026 14:39
-30b0faea-8796-4a9b-82f1-aba74c610db9,topic.software,available,19.99,,high,low,5,name.com,,,
+30b0faea-8796-4a9b-82f1-aba74c610db9,topic.software,available,20,,high,low,5,unstoppable,,,28/09/2026 01:44
 63041328-b1e7-41b6-b425-d097179b097c,majority.software,available,19.99,,high,low,8,name.com,,,
 71795b67-2001-436c-976e-8fd4711f20c8,palatine.software,available,11.98,56.98,medium,low,8,namecheap,,,04/09/2026 23:20
 c26cec2d-dc55-49c4-9192-fbf72b323690,ayrshire.software,available,20.99,41.99,high,low,8,namesilo,,,21/09/2026 10:44
@@ -540,7 +552,7 @@ bd4f25ca-e0a1-4f70-82f7-b197d9fb40d9,guys.software,available,19.99,,high,low,4,n
 d835ac30-24e9-4706-a857-8173e972ab14,fractious.software,available,11.98,56.98,medium,low,9,namecheap,,,18/08/2026 13:53
 1eb9b4a5-60f5-4398-9ca0-648903b55c53,reverie.software,available,20.99,41.99,high,low,7,namesilo,,,17/09/2026 21:59
 ef8bd55f-f322-40bd-8366-fd0de4a38038,punch.software,available,11.98,56.98,high,low,5,namecheap,,,27/09/2026 03:37
-4bcfbf78-8459-4d03-83f3-763113235ba2,seldom.software,available,11.98,56.98,high,low,6,namecheap,,,15/09/2026 22:34
+4bcfbf78-8459-4d03-83f3-763113235ba2,seldom.software,available,11.98,56.98,medium,low,6,namecheap,,,15/09/2026 22:34
 6d3462e0-aff2-47c4-8eb4-c0efb015038c,pizza.software,premium,520,520,high,medium,5,namecheap,,,23/09/2026 06:45
 628c282f-8b9a-43b2-b0ec-c4e8484f0d7f,process.software,premium,512,512,high,low,7,namesilo,,,23/09/2026 09:17
 97dd6b4a-5773-4895-af84-e8f4f5c2366c,vulpine.software,available,11.98,56.98,medium,low,7,namecheap,,,13/09/2026 07:26
@@ -553,8 +565,8 @@ c5763ac4-346f-4b60-8734-3c1676ea26ea,webmasters.software,available,11.98,56.98,m
 bb54744d-8fd6-48de-aec1-7d30df36438e,zymoid.software,available,11.98,56.98,medium,low,6,namecheap,,,13/09/2026 15:55
 c54cf155-c585-4643-9006-dd9d157244e2,ecological.software,premium,260,260,high,low,10,namecheap,,,22/09/2026 21:01
 2867b464-4b84-4515-aecf-c7e16ce47ad3,junky.software,available,20.99,41.99,medium,low,5,namesilo,,,17/09/2026 06:52
-db7b8fca-ccd6-4c63-80fe-db3821f4a0bf,diligently.software,available,11.98,56.98,high,low,10,namecheap,,,14/09/2026 12:40
-c420c1f7-f3b1-4a85-a856-582093b39333,disuse.software,available,20.99,41.99,high,low,6,namesilo,,,24/09/2026 23:14
+db7b8fca-ccd6-4c63-80fe-db3821f4a0bf,diligently.software,available,11.98,56.98,medium,low,10,namecheap,,,14/09/2026 12:40
+c420c1f7-f3b1-4a85-a856-582093b39333,disuse.software,available,20.99,41.99,medium,low,6,namesilo,,,24/09/2026 23:14
 1ca458f0-6a9b-424c-9391-c72d0ba0b6ef,asynergy.software,available,11.98,56.98,medium,low,8,namecheap,,,20/09/2026 18:52
 4b1f2c30-41e4-4532-867a-d5b31cd18361,altruism.software,available,19.99,,high,low,8,name.com,,,
 eea8478e-b38c-4c79-9fb8-82a3b5ee7b81,london.software,premium,500,,high,medium,6,name.com,,,
@@ -576,14 +588,15 @@ b68e9543-e830-4961-8b62-967236407ea3,closed.software,available,11.98,56.98,high,
 98c9060d-0cfe-464e-bd3f-2c7e256c0108,auriga.software,available,20.99,41.99,medium,low,6,namesilo,,,21/09/2026 04:24
 f9b4419d-f4f8-4140-a5d3-13d54f267e4c,admiralty.software,available,20.99,41.99,medium,low,9,namesilo,,,17/09/2026 08:53
 668dd876-3e92-43ee-b456-d012217e9fbf,analgesic.software,available,11.98,56.98,medium,low,9,namecheap,,,
+112b21b7-a490-4e0b-90c5-fb921ee65161,remembers.software,available,10.55,33.32,medium,low,9,spaceship,,,28/09/2026 00:17
 20697d2c-672a-4096-a803-ae445e7ca041,ferric.software,available,11.98,56.98,medium,low,6,namecheap,,,18/08/2026 02:07
-810fe2aa-7d78-40b0-b2bd-624038ece397,scorching.software,available,11.98,56.98,high,low,9,namecheap,,,09/09/2026 23:31
+810fe2aa-7d78-40b0-b2bd-624038ece397,scorching.software,available,11.98,56.98,medium,low,9,namecheap,,,09/09/2026 23:31
 fe56543e-deed-47f1-9b84-5aacadfc9620,playaround.software,available,11.98,56.98,medium,low,11,namecheap,,,17/09/2026 06:03
 dd390b1f-c96a-453e-ba41-f57e88078034,knees.software,available,20.99,41.99,medium,low,5,namesilo,,,17/09/2026 07:20
 46c4a996-5c06-45e2-9667-638ede50d479,nett.software,available,11.98,56.98,medium,low,4,namecheap,,,03/09/2026 15:52
 b35ff662-1ae6-47b9-b899-a8e368840c4d,lyrate.software,available,11.98,56.98,medium,low,6,namecheap,,,24/08/2026 12:39
 e4d8ef67-ea2b-4052-84c6-e8f739bd9b47,butt.software,available,11.98,56.98,medium,low,4,namecheap,,,09/08/2026 10:40
-5fffc47a-2059-486c-bfd1-a3bf75a38163,debbie.software,available,20.99,41.99,high,low,6,namesilo,,,27/09/2026 07:32
+5fffc47a-2059-486c-bfd1-a3bf75a38163,debbie.software,available,20.99,41.99,medium,low,6,namesilo,,,27/09/2026 07:32
 b82a837d-35b5-4c67-9f77-7a451cc71dc5,witnesses.software,available,11.98,56.98,medium,low,9,namecheap,,,25/09/2026 18:59
 e0deed82-b307-4b8e-b618-ac3a71a32982,fecal.software,available,11.98,56.98,medium,low,5,namecheap,,,17/08/2026 20:38
 a0785ec9-992b-47d2-b7f6-95fb81200617,osseous.software,available,11.98,56.98,medium,low,7,namecheap,,,04/09/2026 18:18
@@ -597,7 +610,7 @@ f68a136f-e6bd-41cb-a0e8-2e63c01e0efa,gayal.software,available,20.99,41.99,medium
 fd41520e-da8a-48de-8598-437b37b7894f,hinault.software,available,11.98,56.98,medium,low,7,namecheap,,,23/09/2026 09:48
 99e6bdea-8f2e-4bf9-a7c0-2398b0b44e14,bagger.software,available,11.98,56.98,medium,low,6,namecheap,,,21/09/2026 18:02
 7ab83c6f-0ef3-4446-b6bc-698e75d79461,yogi.software,available,20.99,41.99,high,low,4,namesilo,,,23/09/2026 10:04
-a10b76f6-922b-405d-b171-3c6d89068c36,palladio.software,available,20.99,41.99,high,low,8,namesilo,,,19/09/2026 04:26
+a10b76f6-922b-405d-b171-3c6d89068c36,palladio.software,available,20.99,41.99,medium,low,8,namesilo,,,19/09/2026 04:26
 07089f1b-b3fd-4ffa-80e3-11349a589246,commend.software,available,19.99,,high,low,7,name.com,,,
 7f68b5e8-4dfa-49f6-935c-dafe29a82caf,ankus.software,available,20.99,41.99,medium,low,5,namesilo,,,19/09/2026 09:49
 1eb08bec-3fdc-4192-ada2-77fbce265d35,arctium.software,available,20.99,41.99,medium,low,7,namesilo,,,20/09/2026 02:49
@@ -624,11 +637,11 @@ d29fffad-0ec5-4f32-bd64-c08839df6e35,stagnant.software,available,11.98,56.98,med
 efbaafeb-170d-4920-95a4-62f138bb6f4e,cacophony.software,available,11.98,56.98,medium,low,9,namecheap,,,10/08/2026 13:13
 d1e7867a-7d2c-4be7-ae50-724125e02fc9,painting.software,premium,242,242,high,low,8,namesilo,,,25/09/2026 07:33
 ff25f362-8f5b-4dcf-995b-53a11666267d,unlovable.software,available,11.98,56.98,medium,low,9,namecheap,,,12/09/2026 15:08
-80986b42-151c-424e-a3e2-b05a741f3eea,strategic.software,premium,242,242,high,low,9,namesilo,,,
+80986b42-151c-424e-a3e2-b05a741f3eea,strategic.software,premium,242,242,high,low,9,namesilo,,,28/09/2026 01:36
 b52738dc-6837-44b6-824d-938c81c0169c,incarnate.software,available,11.98,56.98,high,low,9,namecheap,,,16/08/2026 09:36
-8204f66a-f067-4a07-96dc-1d2b87bc5803,forested.software,available,11.98,56.98,high,low,8,namecheap,,,18/08/2026 11:43
-74043af7-c4c0-45e2-936d-addeba135203,annie.software,available,11.98,56.98,high,low,5,namecheap,,,25/09/2026 18:17
-701c54ba-8a4f-4404-a0b7-37883e50ab39,winey.software,available,11.98,56.98,high,low,5,namecheap,,,13/09/2026 12:27
+8204f66a-f067-4a07-96dc-1d2b87bc5803,forested.software,available,11.98,56.98,medium,low,8,namecheap,,,18/08/2026 11:43
+74043af7-c4c0-45e2-936d-addeba135203,annie.software,available,11.98,56.98,medium,low,5,namecheap,,,25/09/2026 18:17
+701c54ba-8a4f-4404-a0b7-37883e50ab39,winey.software,available,11.98,56.98,medium,low,5,namecheap,,,13/09/2026 12:27
 db16b66a-b798-40ad-af24-bf098969e40a,phobic.software,available,11.98,56.98,medium,low,6,namecheap,,,08/09/2026 18:56
 3de762a9-e85d-42e6-928a-803ffb4ed7e6,addable.software,available,11.98,56.98,medium,low,7,namecheap,,,
 84864bc8-382d-4b0f-904b-dc09c808615b,steely.software,available,11.98,56.98,medium,low,6,namecheap,,,10/09/2026 19:47
@@ -645,13 +658,14 @@ c642ebb2-b883-4411-aa62-e8eb6d8224bf,diversion.software,available,20.99,41.99,hi
 8f44e487-5fdd-4b93-9f08-615db82ee299,gainly.software,available,11.98,56.98,medium,low,6,namecheap,,,18/08/2026 19:33
 9200929e-634e-4825-8ade-307371263125,surpassing.software,available,11.98,56.98,high,low,10,namecheap,,,17/08/2026 16:03
 bc87d807-5277-4322-9f03-d0d32c6a86eb,queasy.software,available,11.98,56.98,medium,low,6,namecheap,,,24/08/2026 08:26
-e4393ba3-5e4f-447f-919c-a53a2d92fdb8,pout.software,available,11.98,56.98,high,low,4,namecheap,,,18/09/2026 18:12
+e4393ba3-5e4f-447f-919c-a53a2d92fdb8,pout.software,available,11.98,56.98,medium,low,4,namecheap,,,18/09/2026 18:12
 07e938b7-b6f6-4371-b836-38604314c849,problems.software,available,11.98,56.98,medium,low,8,namecheap,,,25/09/2026 17:11
+337d2ada-c5cf-4729-9b30-b15bee54ab17,cried.software,available,16.22,34.35,medium,low,5,dynadot,,,27/09/2026 23:35
 1134f127-52cc-496e-8ee1-cc3623246466,indigent.software,available,11.98,56.98,medium,low,8,namecheap,,,14/08/2026 04:34
 d220d92c-7341-46f1-843b-052b86f3a72e,looking.software,available,20.99,41.99,high,low,7,namesilo,,,25/09/2026 14:19
 dbed56b5-3c7a-4ca7-8b30-c8f6ef62387f,georges.software,available,20.99,41.99,medium,low,7,namesilo,,,25/09/2026 15:05
 9dbd8397-c3bd-432a-9d3d-f54fd62ed148,sift.software,available,,,high,low,4,,,,
-012e4917-ce71-4fcd-9c13-1e628b36d4dd,ignorant.software,available,11.98,56.98,high,low,8,namecheap,,,21/08/2026 18:27
+012e4917-ce71-4fcd-9c13-1e628b36d4dd,ignorant.software,available,11.98,56.98,medium,low,8,namecheap,,,21/08/2026 18:27
 d6152eda-3cb0-4683-8dbd-027b78a38da6,serial.software,available,11.98,56.98,high,low,6,namecheap,,,21/08/2026 23:54
 0abaad0c-ded6-49ab-8cd7-15ffc5b1677e,bivalent.software,available,11.98,56.98,high,low,8,namecheap,,,10/08/2026 08:58
 1bee810f-8cca-4edd-a8bf-3faf9a6e19fc,watkins.software,available,20.99,41.99,high,low,7,namesilo,,,25/09/2026 15:58
@@ -680,7 +694,7 @@ d6abac34-a55e-43a9-a99f-ca384af4efce,biface.software,available,11.98,56.98,mediu
 0b46dc49-401e-4899-a7ec-16e604f4d256,length.software,available,19.99,,high,low,6,name.com,,,
 806d62a4-ad23-47f2-b709-9c5e81da4c3e,treat.software,available,20.99,41.99,high,low,5,namesilo,,,24/09/2026 04:23
 b0e67345-2737-40db-9e41-c729c101cbb8,unframed.software,available,11.98,56.98,medium,low,8,namecheap,,,12/09/2026 10:41
-54d9b21a-fafd-4f24-a5f6-0f007d106425,pancreas.software,available,19.99,,high,low,8,name.com,,,
+54d9b21a-fafd-4f24-a5f6-0f007d106425,pancreas.software,available,19.99,,medium,low,8,name.com,,,
 e80a5cbe-8f43-4b7a-b593-fd09f6e2bfc2,debonnaire.software,available,29.99,50.99,medium,low,10,name.com,,,13/08/2026 20:46
 cb2a0d87-63e7-49f8-a041-57bd58ddba3a,virtuous.software,available,11.98,56.98,high,low,8,namecheap,,,13/09/2026 06:06
 fb55b176-635c-4767-a470-63e537e6a0f2,amiable.software,available,11.98,56.98,high,low,7,namecheap,,,21/09/2026 21:32
@@ -697,7 +711,7 @@ df28db36-3623-412a-a083-eef8e22bf347,indiscrete.software,available,11.98,56.98,m
 b6b3a27f-dd3d-4a1f-bd26-19915d08681d,lawson.software,available,20.99,41.99,high,low,6,namesilo,,,25/09/2026 12:31
 b20f1073-1bc6-4d0f-8375-8bd6bf3d4d96,floss.software,available,11.98,56.98,high,low,5,namecheap,,,24/09/2026 21:54
 9627f7d1-a68a-44d1-9cd4-21597ca878fa,ersatz.software,available,11.98,56.98,medium,low,6,namecheap,,,17/08/2026 13:03
-689e8831-b99c-4c5b-a002-cb5b0c3427e1,certain.software,available,19.99,,high,low,7,name.com,,,
+689e8831-b99c-4c5b-a002-cb5b0c3427e1,certain.software,available,32.2,32.2,high,low,7,cloudflare,,,27/09/2026 19:05
 742bd3ce-17d4-4d34-8a96-ffbffd162ea9,tocsin.software,available,20.99,41.99,medium,low,6,namesilo,,,18/09/2026 01:57
 19849d09-2cbe-4c76-9174-335e5fe81196,honey.software,resell,,,high,medium,5,"GoDaddy.com, LLC",03/04/2026 17:07,03/04/2027 17:07,26/09/2026 06:42
 695f7dcc-2b2e-4b2c-a71d-6e384f48ce14,febrile.software,available,11.98,56.98,medium,low,7,namecheap,,,18/08/2026 00:27
@@ -709,6 +723,7 @@ bd1e74df-7f0f-4ec3-861a-21f4b175bb71,acquittal.software,available,20.99,41.99,hi
 7503a413-c540-4a30-9bc1-e88a6125433b,airdrome.software,available,20.99,41.99,medium,low,8,namesilo,,,17/09/2026 12:57
 76badf60-cb54-4705-8af9-dec09a9621b4,heterodyne.software,available,11.98,56.98,medium,low,10,namecheap,,,21/08/2026 07:29
 ae0ab2f2-cca2-4534-af37-e501ee24ca7c,acidic.software,available,11.98,56.98,high,low,6,namecheap,,,
+0f6b91a9-e37f-43a8-b481-8c82f274a0d6,hurts.software,available,20.99,41.99,medium,low,5,namesilo,,,27/09/2026 23:53
 0786f5f5-27a9-4cfd-a67f-4529249cc51d,besotted.software,available,11.98,56.98,medium,low,8,namecheap,,,09/08/2026 15:27
 2dcf91be-0803-418a-959a-d8fec1493091,studied.software,available,11.98,56.98,high,low,7,namecheap,,,10/09/2026 22:59
 b790e3f5-ba94-4294-8e53-fa88a65bd41b,goonie.software,available,11.98,56.98,medium,low,6,namecheap,,,23/09/2026 23:45
@@ -719,7 +734,7 @@ ce2f4ebd-68d6-4a7e-84e5-2e4101a6efe7,outsized.software,available,11.98,56.98,med
 28909e1f-f761-4a20-9992-aac23c166f21,rollicking.software,available,11.98,56.98,medium,low,10,namecheap,,,12/08/2026 18:08
 e3989651-c2c5-45a8-93a7-4b3469174521,pollution.software,available,29.99,50.99,medium,low,9,name.com,,,23/09/2026 02:05
 a8777e4d-6451-4939-8d0a-4abb45ae573e,cheesecakes.software,available,11.98,56.98,medium,low,11,namecheap,,,08/09/2026 07:37
-60549947-20b5-48f3-be36-6ba6768b6bd5,motions.software,available,20.99,41.99,high,low,7,namesilo,,,18/09/2026 00:16
+60549947-20b5-48f3-be36-6ba6768b6bd5,motions.software,available,20.99,41.99,medium,low,7,namesilo,,,18/09/2026 00:16
 c60f6aa3-08c1-407a-93bc-d114fe34c9b8,glances.software,available,20.99,41.99,medium,low,7,namesilo,,,18/09/2026 02:11
 3af9c9c6-8d5b-4bc8-9aef-949742d13eb5,sweeps.software,available,20.99,41.99,medium,low,6,namesilo,,,18/09/2026 07:58
 2ae598e3-0d26-4e02-ab92-d5f39693fa93,aught.software,available,11.98,56.98,medium,low,5,namecheap,,,03/09/2026 22:36
@@ -739,7 +754,7 @@ d0c6a431-bd4d-413b-9359-c81b68433c6a,glum.software,available,11.98,56.98,medium,
 66f218d7-e8ca-4e4c-954c-198161f10e67,tub.software,available,19.99,,high,low,3,name.com,,,
 e4938444-efe4-4d3c-81d3-e4b0247960ab,probable.software,available,20.99,41.99,high,low,8,namesilo,,,27/09/2026 06:59
 e67868cd-9b73-4c4a-8c55-a7d23ef0fa77,dopy.software,available,11.98,56.98,low,low,4,namecheap,,,14/08/2026 16:02
-1f89a045-dfa2-48e2-a937-cf755767eca4,balanchine.software,available,11.98,56.98,high,low,10,namecheap,,,21/09/2026 20:54
+1f89a045-dfa2-48e2-a937-cf755767eca4,balanchine.software,available,11.98,56.98,medium,low,10,namecheap,,,21/09/2026 20:54
 cf3361a9-d41c-4de7-bb78-7502f9610e61,plentiful.software,available,20.99,41.99,high,low,9,namesilo,,,27/09/2026 04:16
 dbd36cac-935d-4a09-b58c-df8f89cb77be,zealot.software,available,11.98,56.98,medium,low,6,namecheap,,,08/09/2026 02:10
 4e64ac9a-8cf8-47b5-bb11-7b9cb27ba153,erse.software,available,11.98,56.98,medium,low,4,namecheap,,,18/08/2026 19:28
@@ -769,6 +784,7 @@ ee2f3306-c7dd-4e64-b2df-3efeb00f73d8,sublimate.software,available,11.98,56.98,me
 ea8eacf6-e809-42c3-9af1-01dbfcf9fe1c,gush.software,available,11.98,56.98,high,low,4,namecheap,,,22/08/2026 13:07
 81efa796-7dc5-45d4-8edb-260fa40d9833,fibre.software,available,19.99,,high,low,5,name.com,,,
 6349b631-f2d6-4172-aba5-ac3c210545cf,pyramid.software,available,11.98,56.98,high,low,7,namecheap,,,08/09/2026 13:53
+b658c3f2-116a-42bf-be1b-5b85c721c631,proposition.software,available,10.55,33.32,high,low,11,spaceship,,,28/09/2026 03:24
 83121cd4-ff55-4b11-b30c-f067b281dfbf,hammered.software,available,11.98,56.98,medium,low,8,namecheap,,,20/08/2026 22:59
 e75a7f67-b856-4e77-948c-75f7bdd285cb,ethiopian.software,available,11.98,56.98,high,low,9,namecheap,,,17/08/2026 13:47
 3b63a31e-3add-49cf-bbee-a4e285ac0fde,lucerne.software,available,20.99,41.99,high,low,7,namesilo,,,18/09/2026 06:08
@@ -782,6 +798,7 @@ cfc2f326-6a87-4a9b-93d4-8273f6827fcd,postmortal.software,available,11.98,56.98,m
 d2ae1b54-1da1-4f45-8d04-37f654d32d76,beingness.software,available,20.99,41.99,medium,low,9,namesilo,,,23/09/2026 04:19
 c0ca39d4-1b9e-4645-a506-34d15cb72b9d,picked.software,available,19.99,,high,low,6,name.com,,,
 2c1e13f3-8d7f-4170-89a3-b7c4015f7acc,suchlike.software,available,11.98,56.98,medium,low,8,namecheap,,,11/09/2026 01:00
+4d6d3011-060b-40a5-85c9-d4754d223ad5,henley.software,available,20.99,41.99,high,low,6,namesilo,,,28/09/2026 03:36
 4a188ad3-fcfe-4aa8-a501-f5521115fe32,autopilot.software,resell,,,high,low,9,"GoDaddy.com, LLC",01/05/2026 17:03,01/05/2027 17:03,26/09/2026 04:09
 cea8637b-2fc5-4d4d-bc45-bb03b509979b,bandwagon.software,available,20.99,41.99,high,low,9,namesilo,,,22/09/2026 01:35
 58e85602-3842-404d-861a-1fe0ca053c91,ghosts.software,available,20.99,41.99,medium,low,6,namesilo,,,18/09/2026 22:14
@@ -791,7 +808,7 @@ c292b514-c968-4147-81df-88f87320630d,decreasing.software,available,11.98,56.98,m
 7c5eda3a-5c1c-4a2c-802c-3604ea44d887,notify.software,available,19.99,,high,low,6,name.com,,,
 3a2bf55f-6313-4293-aa91-8fe55abe819c,choc.software,available,19.99,,high,low,4,name.com,,,
 d9cf7f7a-ac93-40b8-9998-b25a251be9d0,sweatshirt.software,available,19.99,,high,low,10,name.com,,,
-1c020e64-b98c-4c0f-9725-b0b4c45b49b1,pentagonal.software,available,11.98,56.98,high,low,10,namecheap,,,08/09/2026 15:00
+1c020e64-b98c-4c0f-9725-b0b4c45b49b1,pentagonal.software,available,11.98,56.98,medium,low,10,namecheap,,,08/09/2026 15:00
 481939b8-a330-4dd7-9c86-aadee6699277,six.software,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 13:17
 d14b0604-3198-419e-b0c4-260c3aaf0170,calculators.software,available,11.98,56.98,high,low,11,namecheap,,,18/09/2026 18:59
 3d6616b8-c88e-4384-93a9-cef1a586e3cf,tog.software,available,11.98,56.98,high,low,3,namecheap,,,19/09/2026 20:00
@@ -799,12 +816,13 @@ ea572380-4191-40e4-b712-a6c39acd3b81,beer.software,premium,500,,high,low,4,name.
 f4a00f32-7a15-458d-86c4-7bdd3cd148ba,humid.software,available,11.98,56.98,high,low,5,namecheap,,,21/08/2026 15:17
 06507c9a-a96d-4a26-ba8b-a4702df24249,scanners.software,premium,512,512,medium,low,8,namesilo,,,19/09/2026 22:09
 db9aab35-6613-4d00-94ae-fd27676e29ab,spaceward.software,available,20.99,41.99,medium,low,9,namesilo,,,16/09/2026 05:42
-a79e228d-c367-4489-8aaa-f284d9c92252,cleft.software,available,11.98,56.98,high,low,5,namecheap,,,12/08/2026 10:39
+a79e228d-c367-4489-8aaa-f284d9c92252,cleft.software,available,11.98,56.98,medium,low,5,namecheap,,,12/08/2026 10:39
 bc9463cc-3dd0-41b4-9d4e-796775ed5442,bevin.software,available,11.98,56.98,medium,low,5,namecheap,,,23/09/2026 12:05
 fc7f9787-185a-4ef4-81b3-1d6bfccff084,adps.software,available,20.99,41.99,medium,low,4,namesilo,,,17/09/2026 09:53
 219e2c78-9928-4285-84c6-ab6fa18f0981,manually.software,available,11.98,56.98,medium,low,8,namecheap,,,15/09/2026 13:27
 b8c2b6d6-562d-435f-a0a3-d4530fdd7c5f,disharmony.software,available,20.99,41.99,medium,low,10,namesilo,,,24/09/2026 22:38
 1eca9436-228a-457e-934d-1b0690cfbde6,seaworthy.software,available,11.98,56.98,high,low,9,namecheap,,,10/09/2026 01:05
+edf049b1-2cc2-449d-8828-7474aaf50e7d,manson.software,available,11.99,69.99,high,low,6,godaddy,,,28/09/2026 02:18
 862c5e4b-b1c1-444b-84ce-6d449ef045cb,atriplex.software,available,20.99,41.99,medium,low,8,namesilo,,,21/09/2026 00:45
 48c0ff2c-0e2d-4b0b-90ab-2e0fb2caa814,adios.software,available,19.99,,high,low,5,name.com,,,
 f7b544c4-b517-4795-ac96-f3177c940fce,mistaken.software,available,11.98,56.98,medium,low,8,namecheap,,,25/08/2026 01:52
@@ -818,7 +836,6 @@ c6944c44-533e-4100-86ef-2aa07b27e880,abele.software,available,20.99,41.99,medium
 9e449632-fe1f-4525-8b38-0bd0e9472b68,apeldoorn.software,available,20.99,41.99,medium,low,9,namesilo,,,19/09/2026 16:24
 fe53f42e-bee9-4932-b818-edb8a0a561e4,duty.software,available,19.99,,high,low,4,name.com,,,
 fcb33f8c-088b-4a8f-bff9-038f0a18c370,chosen.software,available,11.98,56.98,high,low,6,namecheap,,,16/08/2026 02:32
-d7b47b50-1f12-43ed-a096-05ff8fe9ad55,spoken.software,available,19.99,,high,low,6,name.com,,,
 dd884f55-0c53-4ce3-abfc-d6fbddfaf323,hulky.software,available,11.98,56.98,medium,low,5,namecheap,,,21/08/2026 14:48
 7e0984e9-a281-4cfd-8458-020ac50eac2f,applicant.software,available,20.99,41.99,high,low,9,namesilo,,,19/09/2026 21:53
 e0551074-a715-4678-bb77-796cefb23688,fiscally.software,available,11.98,56.98,medium,low,8,namecheap,,,14/09/2026 18:37
@@ -827,7 +844,7 @@ d8b762aa-c127-4cf8-97d9-5538d94e39b0,mettlesome.software,available,11.98,56.98,m
 3b4e7840-e5a9-41aa-b548-d9644da117c7,kingpin.software,available,20.99,41.99,high,low,7,namesilo,,,23/09/2026 15:25
 75a85cc2-9796-4a22-a6f1-239b19d383cb,irate.software,available,11.98,56.98,medium,low,5,namecheap,,,22/08/2026 09:44
 a8522353-795e-428e-89bc-e7b3952024aa,mosquito.software,available,19.99,,medium,low,8,name.com,,,
-2eaaa05c-85c2-41af-96fb-f4c79410d04b,forgotten.software,available,11.98,56.98,high,low,9,namecheap,,,14/08/2026 12:18
+2eaaa05c-85c2-41af-96fb-f4c79410d04b,forgotten.software,available,11.98,56.98,medium,low,9,namecheap,,,14/08/2026 12:18
 d0f5b743-c9e5-42e2-aa32-eb3031de39ee,belongs.software,available,11.98,56.98,medium,low,7,namecheap,,,25/09/2026 20:38
 04fa600c-d970-4929-a4da-4f211d24dd53,milliliter.software,available,11.98,56.98,medium,low,10,namecheap,,,11/08/2026 22:53
 0f9771b0-9e39-4fb8-8740-a29140202cb0,grandiose.software,available,11.98,56.98,high,low,9,namecheap,,,20/08/2026 17:58
@@ -841,11 +858,10 @@ f7522b7a-c216-4d47-ad81-a567cf13a8ad,sakharov.software,available,29.99,50.99,med
 5b89eac8-967e-41e5-8fcb-dd349e03b45b,lollipop.software,available,20.99,41.99,high,low,8,namesilo,,,18/09/2026 08:50
 fc09b2a4-c475-45ff-b44f-1b99a7155f08,focusing.software,available,11.98,56.98,high,low,8,namecheap,,,24/09/2026 13:33
 dd52e7dd-3321-45b6-8a0e-dce37a2d3116,veiled.software,available,11.98,56.98,medium,low,6,namecheap,,,13/09/2026 01:50
-0a41b5d7-b287-47d6-80d6-b59c6d687d29,auspices.software,available,20.99,41.99,high,low,8,namesilo,,,17/09/2026 12:16
+0a41b5d7-b287-47d6-80d6-b59c6d687d29,auspices.software,available,20.99,41.99,medium,low,8,namesilo,,,17/09/2026 12:16
 59caf323-a58a-4578-8005-d077df2b3ea2,bacca.software,available,20.99,41.99,high,low,5,namesilo,,,21/09/2026 13:55
 175241f3-5be8-4a7e-a392-b320f12d3783,literature.software,available,11.98,56.98,high,low,10,namecheap,,,24/08/2026 02:03
 ca51b998-2328-46f5-baad-5b4f3feb17c7,affecting.software,available,11.98,56.98,high,low,9,namecheap,,,
-dbfd9cf7-ec88-4ca9-ad56-c9e432e6da0d,now.software,available,,,high,medium,3,,,,
 4c106cf1-7460-4c2f-b982-e0dcd87a57a9,rollover.software,available,20.99,41.99,high,low,9,namesilo,,,16/09/2026 17:22
 f1eaf002-b84b-4f6f-9fb0-cd3ccf0129dc,lamb.software,available,11.98,56.98,high,low,4,namecheap,,,27/09/2026 03:31
 b8a8b499-a62e-44d8-977a-5cf8b6e00cc4,accentuate.software,available,20.99,41.99,high,low,10,namesilo,,,16/09/2026 21:56
@@ -893,17 +909,19 @@ a606ab56-c1bc-4160-b93f-083c21f338e0,alkeran.software,available,20.99,41.99,medi
 d3d13a43-487f-4a9a-9d42-c2b0c23b59da,migrate.software,available,19.99,,high,low,7,name.com,,,
 eb296bd7-fc47-430e-8624-4951adc5c2aa,armorer.software,available,20.99,41.99,medium,low,7,namesilo,,,20/09/2026 07:29
 cdac2b51-2325-42b8-8bf1-c43ef37933b8,unhearing.software,available,29.99,50.99,medium,low,9,name.com,,,13/08/2026 19:50
+8bd42e97-5f79-4319-afed-326aa47c38ce,unnecessary.software,available,10.55,33.32,high,low,11,spaceship,,,28/09/2026 03:22
 c6f393ea-0aad-4c42-98e2-2ed87ab75c9a,burnished.software,available,11.98,56.98,medium,low,9,namecheap,,,11/08/2026 10:59
 89e12056-d30b-4145-8add-e83af099c4ab,judicious.software,available,11.98,56.98,high,low,9,namecheap,,,21/08/2026 02:00
 3417f6ee-f99d-4a80-afcf-e612c077dfd9,crunch.software,available,11.98,56.98,high,low,6,namecheap,,,24/09/2026 19:53
 b7b2e0c7-5369-4466-a132-df439a49d07a,annotator.software,available,20.99,41.99,medium,low,9,namesilo,,,19/09/2026 10:48
 29775b77-3b54-4843-889f-6fe9fd53f512,amun.software,available,11.98,56.98,medium,low,4,namecheap,,,18/09/2026 18:29
+20aa9d46-2c30-4063-97a3-b28a0f506a65,mtv.software,available,10.55,33.32,high,low,3,spaceship,,,28/09/2026 03:45
 f6440411-4e0a-4089-b08e-27c72182eee6,blancmange.software,available,20.99,41.99,medium,low,10,namesilo,,,24/09/2026 03:51
 578ba2ed-1b0b-477f-8d8a-4c8a28a5ecba,snoopy.software,available,11.98,56.98,medium,low,6,namecheap,,,03/09/2026 21:54
 daabdbb6-f7bd-46a3-96b7-fdb0cb59bda3,hua.software,available,20.99,41.99,high,low,3,namesilo,,,18/09/2026 01:18
-89276042-ed1a-4e5a-aa4c-ab5db07702ce,acetate.software,available,11.98,56.98,high,low,7,namecheap,,,17/09/2026 00:03
+89276042-ed1a-4e5a-aa4c-ab5db07702ce,acetate.software,available,11.98,56.98,medium,low,7,namecheap,,,17/09/2026 00:03
 81b753e2-c48a-43d9-97bd-3838e78665c9,aaron.software,available,,,high,low,5,,,,
-d1841d43-d29c-4688-8771-8bcaa32581fe,ovate.software,available,11.98,56.98,high,low,5,namecheap,,,15/08/2026 18:03
+d1841d43-d29c-4688-8771-8bcaa32581fe,ovate.software,available,11.98,56.98,medium,low,5,namecheap,,,15/08/2026 18:03
 d148350f-4153-428a-93c1-41c1b3222d2f,stimulant.software,available,11.98,56.98,high,low,9,namecheap,,,17/08/2026 16:30
 bab92843-1e10-402c-83d5-0c1036a83295,sourly.software,available,20.99,41.99,low,low,6,namesilo,,,16/09/2026 05:40
 43f87d7e-5386-4433-abd2-a1cd85df3763,odious.software,available,11.98,56.98,medium,low,6,namecheap,,,
@@ -911,6 +929,7 @@ bab92843-1e10-402c-83d5-0c1036a83295,sourly.software,available,20.99,41.99,low,l
 b1f8cd8c-9e3d-425b-828a-0e238d3f52b4,cowardice.software,available,11.98,56.98,medium,low,9,namecheap,,,24/09/2026 18:57
 91f30c58-735f-42cb-a29b-14d0e2dc7397,capacitive.software,available,11.98,56.98,medium,low,10,namecheap,,,11/08/2026 17:49
 f7ee8e2f-8cec-4532-b225-cb95ca7ea3c4,ardeidae.software,available,20.99,41.99,medium,low,8,namesilo,,,20/09/2026 03:06
+1b72b9e4-6be7-41e8-ac79-d881952a03c6,settlement.software,available,16.22,34.35,high,low,10,dynadot,,,28/09/2026 01:43
 450ce697-67f1-48ce-92fd-e372620c9b2f,shuha.software,available,11.98,56.98,medium,low,5,namecheap,,,10/09/2026 07:04
 ee310127-6866-46cb-b451-67481aefd82a,debonaire.software,available,11.98,56.98,medium,low,9,namecheap,,,12/08/2026 05:59
 b39d60db-3c78-42c8-aa09-6077e6d02996,coy.software,available,20.99,41.99,high,low,3,namesilo,,,24/09/2026 01:10
@@ -926,7 +945,6 @@ e46a208f-6b68-463b-a6f3-a432151ed5b0,obscenity.software,available,11.98,56.98,me
 a1f523c8-872a-4398-8c73-a32200e83338,velvetleaf.software,available,11.98,56.98,medium,low,10,namecheap,,,16/09/2026 19:24
 858962fd-a71f-4fa4-997b-462bd615a0ec,greenly.software,available,11.98,56.98,medium,low,7,namecheap,,,14/09/2026 22:19
 fdafcb3e-15ea-4470-b402-dc922dfbaa9a,boot.software,premium,500,,high,low,4,name.com,,,
-9e5c0b35-1b71-4577-a733-f43870ae3730,work.software,premium,500,,high,medium,4,name.com,,,
 90cca033-7291-4316-8915-a78c044c93fa,lullaby.software,available,20.99,41.99,high,low,7,namesilo,,,23/09/2026 09:09
 eb70fc4e-745e-41ad-aae3-cebd72c01cbb,that.software,premium,500,,high,low,4,name.com,,,
 9a040bda-2920-4989-8edf-f7def08a4237,fickle.software,available,11.98,56.98,medium,low,6,namecheap,,,17/08/2026 12:48
@@ -938,6 +956,8 @@ a82c4f19-19f6-4dfe-a663-18e4bab9c68c,stockton.software,available,20.99,41.99,hig
 b3a187b0-c47d-492f-a38b-9f80de271a07,heartleaf.software,available,20.99,41.99,medium,low,9,namesilo,,,20/09/2026 12:53
 a11676a5-6334-4499-864d-28cd47de960c,spotlessly.software,available,11.98,56.98,medium,low,10,namecheap,,,16/09/2026 06:37
 015ea6bc-3cb6-4bf7-b3f4-d4f16f60c75e,inured.software,available,11.98,56.98,medium,low,6,namecheap,,,17/08/2026 10:01
+7555198e-2462-4166-bc5b-12541697be0f,pla.software,available,32.2,32.2,high,low,3,cloudflare,,,27/09/2026 18:08
+16277693-d6d7-4e20-971e-eccf05f3c0b3,computerized.software,available,20,,high,low,12,unstoppable,,,28/09/2026 02:46
 6cf98bcf-b3f5-4ec2-a12e-1ef00820cc97,fastidious.software,available,11.98,56.98,medium,low,10,namecheap,,,17/08/2026 15:30
 c868e88f-5f27-43af-ae3b-41fa1308f9d9,motorised.software,available,11.98,56.98,medium,low,9,namecheap,,,25/08/2026 08:28
 40e2a08e-d953-4b7e-86af-dea6335a019a,publicity.software,available,19.99,,high,low,9,name.com,,,
@@ -962,14 +982,15 @@ e483656a-d4b6-4353-a0e3-1b777312f0d3,mauve.software,available,11.98,56.98,high,l
 7cc1aa8e-285b-4fdb-ad9a-e4e536b24a42,calculated.software,available,11.98,56.98,high,low,10,namecheap,,,11/08/2026 13:58
 8fe5229c-68b9-41eb-bf7f-84dcecb61289,zdv.software,available,20.99,41.99,medium,low,3,namesilo,,,21/09/2026 11:32
 eb5d6c2a-dc06-4288-89b2-3a2f1b0b018d,ingrowing.software,available,11.98,56.98,medium,low,9,namecheap,,,22/08/2026 04:54
-fe543a8c-4f67-465e-a38b-abffb867ef74,uproarious.software,available,11.98,56.98,high,low,10,namecheap,,,21/08/2026 09:23
+fe543a8c-4f67-465e-a38b-abffb867ef74,uproarious.software,available,11.98,56.98,medium,low,10,namecheap,,,21/08/2026 09:23
+a96f6edd-a126-4eab-b75d-68f18d28373c,priscilla.software,available,10.55,33.32,high,low,9,spaceship,,,28/09/2026 03:51
 08790ce2-479a-41ed-9be6-01b963681a15,likeable.software,available,11.98,56.98,high,low,8,namecheap,,,23/08/2026 06:11
 a789f2da-3323-4e77-87fb-68c8ed916b82,apocynum.software,available,11.98,56.98,medium,low,8,namecheap,,,19/09/2026 18:15
 26a6741c-4c4c-4a59-82e4-2350caec1b8b,unsolved.software,available,11.98,56.98,medium,low,8,namecheap,,,12/09/2026 18:23
 a27f4120-fe11-4209-b4c0-6a2f2a6e99cb,scoff.software,available,11.98,56.98,medium,low,5,namecheap,,,22/08/2026 12:41
 bed3b665-e85a-4f0f-b32e-bdc751395873,biotin.software,available,11.98,56.98,high,low,6,namecheap,,,23/09/2026 19:07
 d22ec4e2-29b9-4cbc-bebe-163f5de77ff1,generals.software,available,20.99,41.99,medium,low,8,namesilo,,,18/09/2026 06:44
-abe26828-f354-418a-b1e1-727f75e7bc50,guests.software,available,20.99,41.99,high,low,6,namesilo,,,25/09/2026 17:02
+abe26828-f354-418a-b1e1-727f75e7bc50,guests.software,available,20.99,41.99,medium,low,6,namesilo,,,25/09/2026 17:02
 f3ca6a00-7953-4ccc-bdb7-df2136ff19d5,buckingham.software,available,20.99,41.99,high,low,10,namesilo,,,25/09/2026 12:25
 1cc8ecbd-34e6-4d19-94d7-1fac54118dcc,astreus.software,available,20.99,41.99,medium,low,7,namesilo,,,20/09/2026 17:34
 f9813975-ad5b-44d2-b8dc-b7c09333a4a6,billhook.software,available,20.99,41.99,medium,low,8,namesilo,,,23/09/2026 16:21
@@ -978,24 +999,3 @@ f9813975-ad5b-44d2-b8dc-b7c09333a4a6,billhook.software,available,20.99,41.99,med
 1a1f3983-e6fb-4076-95d6-faa1921a4e84,steuben.software,available,20.99,41.99,medium,low,7,namesilo,,,22/09/2026 07:05
 74a05b2e-004b-43cf-a2be-dbc793822a40,dependent.software,available,11.98,56.98,high,low,9,namecheap,,,14/08/2026 02:06
 11c12f0a-3a8c-40e4-b436-0eb158b97648,adige.software,available,20.99,41.99,medium,low,5,namesilo,,,17/09/2026 08:16
-1a5c6257-8264-4dd0-90b1-5885162faa1a,substitution.software,available,19.99,,high,low,12,name.com,,,
-c2273e40-59b1-46d4-92b1-32990268f56b,apse.software,available,20.99,41.99,high,low,4,namesilo,,,19/09/2026 22:33
-d62b6542-fc47-43ba-b22f-7bdbc3b5a8fc,boarded.software,available,19.99,,high,low,7,name.com,,,
-eb1ed6e4-a614-4d52-bbfd-20dfa6885d88,applecart.software,available,11.98,56.98,medium,low,9,namecheap,,,19/09/2026 21:32
-6bf3c057-616e-46ed-b684-137ffe34e6cf,trials.software,premium,118.8,118.8,medium,low,6,namesilo,,,18/09/2026 17:43
-38bc110b-d9f6-4c1c-8bf6-f6678760a4af,launch.software,premium,3450,3450,high,medium,6,namesilo,,,25/09/2026 22:14
-12ddac61-c714-4f45-a19c-128081f7879c,athenian.software,available,11.98,56.98,medium,low,8,namecheap,,,07/08/2026 13:08
-6defa8d4-f157-4931-92a1-52b5c4d72379,uninvited.software,available,11.98,56.98,medium,low,9,namecheap,,,12/09/2026 13:33
-0487420c-819a-41a9-9d86-457970b76b24,metier.software,available,11.98,56.98,high,low,6,namecheap,,,18/08/2026 12:29
-e4b8c818-d84c-42a0-9d97-445b18270733,slave.software,available,19.99,,high,low,5,name.com,,,
-56fc4e30-5132-4d1a-8ac3-579f605f6275,foiling.software,available,11.98,56.98,medium,low,7,namecheap,,,11/09/2026 15:16
-920a04eb-4b14-407c-a079-0e61149284f8,clamor.software,available,11.98,56.98,high,low,6,namecheap,,,10/08/2026 13:15
-e9b29c54-5198-4372-9b08-706279d70c97,liquors.software,available,20.99,41.99,medium,low,7,namesilo,,,20/09/2026 06:24
-f7ad2772-5b3d-4e4e-9297-89959fdae445,tetrad.software,available,11.98,56.98,medium,low,6,namecheap,,,
-fd293e14-c830-40b6-894c-387cb7c7bdb0,senatorial.software,available,11.98,56.98,medium,low,10,namecheap,,,10/09/2026 03:38
-6d41dacd-347b-46ce-bad8-03ea139d7fc1,candlenut.software,available,11.98,56.98,medium,low,9,namecheap,,,18/09/2026 05:37
-f362bd2e-100a-4fbf-8677-07d2e8d4a2a1,adelaide.software,available,20.99,41.99,high,low,8,namesilo,,,17/09/2026 07:13
-51fc4e61-dc1d-4ba7-88fa-d73644bc1a87,premium.software,premium,3450,3450,high,medium,7,namesilo,,,27/09/2026 05:00
-36b0e58c-2c67-4a73-8e3e-d516294d7739,chordal.software,available,11.98,56.98,medium,low,7,namecheap,,,12/08/2026 07:06
-ed027ac7-3968-43a4-8079-bf9f95ac43c1,delighted.software,available,11.98,56.98,high,low,9,namecheap,,,09/08/2026 10:01
-4713aa03-ba44-4eee-98c8-3b7b352ef952,lowercase.software,available,20.99,41.99,high,low,9,namesilo,,,25/09/2026 15:23

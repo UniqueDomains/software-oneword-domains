@@ -1,10 +1,10 @@
-# Available .SOFTWARE One-Word Domains (20,383)
+# Available .SOFTWARE One-Word Domains (20,850)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C383%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C850%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .software one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,383 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,850 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,383 domains · **Median ask:** $58.63 · **High-demand under $2,500:** 7
+**Public extract:** 1,000 rows · **Live catalog:** 20,850 domains · **Median ask:** $58.10 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/software`
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | abo.software   | available | $11.98    | $56.98        | high           | low    | 3      | namecheap        |
 | eye.software   | resell    | $19.99    | —             | high           | low    | 3      | Spaceship, Inc.  |
-| mod.software   | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| eps.software   | premium   | $54.36    | $108.60       | high           | low    | 3      | porkbun          |
 | afp.software   | available | $20.99    | $41.99        | high           | low    | 3      | namesilo         |
 | get.software   | resell    | —         | —             | high           | high   | 3      | Spaceship, Inc.  |
-| nix.software   | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| mod.software   | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
 | aga.software   | available | $20.99    | $41.99        | high           | low    | 3      | namesilo         |
 | near.software  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| rat.software   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| nix.software   | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
 | bop.software   | available | $20.99    | $41.99        | high           | low    | 3      | namesilo         |
 | wire.software  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| six.software   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| rat.software   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | bye.software   | available | $19.99    | —             | high           | low    | 3      | name.com         |
 | boost.software | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
-| beer.software  | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| six.software   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | cob.software   | available | $20.99    | $41.99        | high           | low    | 3      | namesilo         |
 | fraud.software | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
-| boot.software  | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| beer.software  | premium   | $500      | —             | high           | low    | 4      | name.com         |
 | coy.software   | available | $20.99    | $41.99        | high           | low    | 3      | namesilo         |
 | honey.software | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,383 live domains                        |
+| 1,000-row public sample | 20,850 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOFTWARE One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOFTWARE One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
